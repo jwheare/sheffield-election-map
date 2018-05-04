@@ -8688,6 +8688,5 @@ var RESULTS = [
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4118/?format=json",
         "user": "jwheare",
         "user_id": 5610
-    },
-
+    }
 ];
