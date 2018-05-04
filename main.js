@@ -1,7 +1,7 @@
 (function () {
-var mymap = L.map('mapid').setView([53.381129, -1.470085], 11);
+var mymap = L.map('mapid').setView([53.455, -1.528494], 11);
 L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
-    attribution: 'Map data &copy; <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com" target="_blank">Mapbox</a>, Boundary data © <a href="https://www.ordnancesurvey.co.uk/election-maps/gb/?x=440717&y=386411&z=5&bnd1=&bnd2=MTW&labels=off" target="_blank">OS</a>, Result data © <a href="https://candidates.democracyclub.org.uk/election/local.sheffield.2018-05-03/constituencies" target="_blank">Democracy Club</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a></p>',
+    attribution: 'Map data © <a href="http://openstreetmap.org" target="_blank">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com" target="_blank">Mapbox</a>, Boundary data © <a href="https://www.ordnancesurvey.co.uk/election-maps/gb/?x=441165&y=398063&z=4&bnd1=MTW&bnd2=&labels=off" target="_blank">OS</a>, Result data © <a href="https://candidates.democracyclub.org.uk/election/local.sheffield.2018-05-03/constituencies" target="_blank">Democracy Club</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank">CC-BY-SA</a></p>',
     maxZoom: 18,
     id: 'mapbox.streets',
     accessToken: 'pk.eyJ1IjoiandoZWFyZSIsImEiOiJjamdydW1zcDgwZWN4MnhzMzljdnltdTRzIn0.BTVyxizdqNGPnj8UaC1IOQ'
@@ -14,6 +14,7 @@ RESULTS.forEach(function (res) {
         var wardUpper = cand.membership.post.label.toUpperCase();
         if (!wards[wardUpper]) {
             wards[wardUpper] = {
+                election: cand.membership.election,
                 post: cand.membership.post,
                 results: [],
                 turnout: res.num_turnout_reported,
@@ -52,7 +53,7 @@ function safe(text) {
 
 L.geoJSON(BOUNDARIES, {
     filter: function (feature) {
-        return feature.properties.fullname.indexOf(', SHEFFIELD DISTRICT') !== -1;
+        return /, (SHEFFIELD)|(BARNSLEY) DISTRICT$/.test(feature.properties.fullname);
     },
     style: function (feature) {
         var ward = wards[feature.properties.name];
@@ -78,6 +79,8 @@ L.geoJSON(BOUNDARIES, {
 
             tt += '<h2 class="results__head">';
             tt += safe(ward.post.label);
+            tt += ' - ';
+            tt += safe(ward.election.name);
             tt += '</h2>';
 
             tt += '<table class="results__table" cellspacing="0" cellpadding="5">'

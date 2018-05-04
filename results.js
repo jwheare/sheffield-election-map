@@ -238,7 +238,6 @@ var RESULTS = [
             }
         ],
         "id": 3511,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 34,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3511/?format=json",
@@ -406,7 +405,6 @@ var RESULTS = [
             }
         ],
         "id": 3524,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 43,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3524/?format=json",
@@ -574,7 +572,6 @@ var RESULTS = [
             }
         ],
         "id": 3534,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 27,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3534/?format=json",
@@ -742,7 +739,6 @@ var RESULTS = [
             }
         ],
         "id": 3541,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 13,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3541/?format=json",
@@ -949,7 +945,6 @@ var RESULTS = [
             }
         ],
         "id": 3545,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 43,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3545/?format=json",
@@ -1117,7 +1112,6 @@ var RESULTS = [
             }
         ],
         "id": 3550,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 24,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3550/?format=json",
@@ -1324,7 +1318,6 @@ var RESULTS = [
             }
         ],
         "id": 3551,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 29,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3551/?format=json",
@@ -1570,7 +1563,6 @@ var RESULTS = [
             }
         ],
         "id": 3552,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 20,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3552/?format=json",
@@ -1855,7 +1847,6 @@ var RESULTS = [
             }
         ],
         "id": 3553,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 33,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3553/?format=json",
@@ -2101,7 +2092,6 @@ var RESULTS = [
             }
         ],
         "id": 3555,
-        "ip_address": "143.167.150.183",
         "num_spoilt_ballots": null,
         "num_turnout_reported": null,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3555/?format=json",
@@ -2308,7 +2298,6 @@ var RESULTS = [
             }
         ],
         "id": 3557,
-        "ip_address": "143.167.150.183",
         "num_spoilt_ballots": null,
         "num_turnout_reported": null,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3557/?format=json",
@@ -2476,7 +2465,6 @@ var RESULTS = [
             }
         ],
         "id": 3602,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 30,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3602/?format=json",
@@ -2644,7 +2632,6 @@ var RESULTS = [
             }
         ],
         "id": 3615,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 44,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3615/?format=json",
@@ -2812,7 +2799,6 @@ var RESULTS = [
             }
         ],
         "id": 3618,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 36,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3618/?format=json",
@@ -2980,7 +2966,6 @@ var RESULTS = [
             }
         ],
         "id": 3620,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 47,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3620/?format=json",
@@ -3148,7 +3133,6 @@ var RESULTS = [
             }
         ],
         "id": 3630,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 31,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3630/?format=json",
@@ -3316,7 +3300,6 @@ var RESULTS = [
             }
         ],
         "id": 3631,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 23,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3631/?format=json",
@@ -3484,7 +3467,6 @@ var RESULTS = [
             }
         ],
         "id": 3644,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 35,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3644/?format=json",
@@ -3652,7 +3634,6 @@ var RESULTS = [
             }
         ],
         "id": 3651,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 26,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3651/?format=json",
@@ -3859,7 +3840,6 @@ var RESULTS = [
             }
         ],
         "id": 3653,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 32,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3653/?format=json",
@@ -4066,7 +4046,6 @@ var RESULTS = [
             }
         ],
         "id": 3655,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 22,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3655/?format=json",
@@ -4273,7 +4252,6 @@ var RESULTS = [
             }
         ],
         "id": 3656,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 25,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3656/?format=json",
@@ -4480,7 +4458,6 @@ var RESULTS = [
             }
         ],
         "id": 3658,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 26,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3658/?format=json",
@@ -4687,7 +4664,6 @@ var RESULTS = [
             }
         ],
         "id": 3659,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 26,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3659/?format=json",
@@ -4894,7 +4870,6 @@ var RESULTS = [
             }
         ],
         "id": 3661,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 50,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3661/?format=json",
@@ -5101,7 +5076,6 @@ var RESULTS = [
             }
         ],
         "id": 3662,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 41,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3662/?format=json",
@@ -5347,7 +5321,6 @@ var RESULTS = [
             }
         ],
         "id": 3663,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 21,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3663/?format=json",
@@ -5593,11 +5566,3128 @@ var RESULTS = [
             }
         ],
         "id": 3664,
-        "ip_address": "87.81.171.179",
         "num_spoilt_ballots": null,
         "num_turnout_reported": 32,
         "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/3664/?format=json",
         "user": "jwheare",
         "user_id": 5610
-    }
+    },
+        {
+        "ballot_paper_id": "local.barnsley.central.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21000,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171859,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47677,
+                        "name": "Margaret Bruff",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47677/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000976",
+                        "label": "Central",
+                        "slug": "MTW:E05000976",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000976/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171859/?format=json"
+                },
+                "num_ballots": 1285,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4071/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21000/?format=json"
+            },
+            {
+                "id": 21002,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171860,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47678,
+                        "name": "Adrian Thompson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47678/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000976",
+                        "label": "Central",
+                        "slug": "MTW:E05000976",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000976/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171860/?format=json"
+                },
+                "num_ballots": 324,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4071/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21002/?format=json"
+            },
+            {
+                "id": 21001,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171861,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47679,
+                        "name": "Rene Laurens Van Buuren",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47679/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000976",
+                        "label": "Central",
+                        "slug": "MTW:E05000976",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000976/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171861/?format=json"
+                },
+                "num_ballots": 182,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4071/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21001/?format=json"
+            },
+            {
+                "id": 20999,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168833,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45461,
+                        "name": "Connor Audsley",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45461/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000976",
+                        "label": "Central",
+                        "slug": "MTW:E05000976",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000976/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168833/?format=json"
+                },
+                "num_ballots": 98,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4071/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/20999/?format=json"
+            }
+        ],
+        "id": 4071,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4071/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.cudworth.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21017,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 164492,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42297,
+                        "name": "Joe Hayward",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42297/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000977",
+                        "label": "Cudworth",
+                        "slug": "MTW:E05000977",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000977/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/164492/?format=json"
+                },
+                "num_ballots": 1252,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21017/?format=json"
+            },
+            {
+                "id": 21019,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 164494,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42299,
+                        "name": "Samuel Joe Wilkinson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42299/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000977",
+                        "label": "Cudworth",
+                        "slug": "MTW:E05000977",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000977/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/164494/?format=json"
+                },
+                "num_ballots": 175,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21019/?format=json"
+            },
+            {
+                "id": 21015,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 164490,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "The Yorkshire Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:2055/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42296,
+                        "name": "Chris Burrows",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42296/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000977",
+                        "label": "Cudworth",
+                        "slug": "MTW:E05000977",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000977/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/164490/?format=json"
+                },
+                "num_ballots": 161,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21015/?format=json"
+            },
+            {
+                "id": 21018,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 164493,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42298,
+                        "name": "Elizabeth Kate Waters",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42298/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000977",
+                        "label": "Cudworth",
+                        "slug": "MTW:E05000977",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000977/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/164493/?format=json"
+                },
+                "num_ballots": 50,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21018/?format=json"
+            },
+            {
+                "id": 21016,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 164491,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:6662",
+                        "name": "Democrats and Veterans Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:6662/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 7701,
+                        "name": "Gavin Felton",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/7701/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000977",
+                        "label": "Cudworth",
+                        "slug": "MTW:E05000977",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000977/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/164491/?format=json"
+                },
+                "num_ballots": 38,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21016/?format=json"
+            }
+        ],
+        "id": 4073,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4073/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.darfield.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21021,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171344,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47293,
+                        "name": "Pauline Markham",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47293/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000978",
+                        "label": "Darfield",
+                        "slug": "MTW:E05000978",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000978/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171344/?format=json"
+                },
+                "num_ballots": 1134,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4074/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21021/?format=json"
+            },
+            {
+                "id": 21022,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171345,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:6662",
+                        "name": "Democrats and Veterans Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:6662/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47294,
+                        "name": "Trevor Smith",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47294/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000978",
+                        "label": "Darfield",
+                        "slug": "MTW:E05000978",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000978/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171345/?format=json"
+                },
+                "num_ballots": 391,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4074/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21022/?format=json"
+            },
+            {
+                "id": 21023,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171346,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9532,
+                        "name": "Delia Mary Weldon",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9532/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000978",
+                        "label": "Darfield",
+                        "slug": "MTW:E05000978",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000978/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171346/?format=json"
+                },
+                "num_ballots": 295,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4074/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21023/?format=json"
+            },
+            {
+                "id": 21020,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168834,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45462,
+                        "name": "Kim Boon",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45462/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000978",
+                        "label": "Darfield",
+                        "slug": "MTW:E05000978",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000978/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168834/?format=json"
+                },
+                "num_ballots": 160,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4074/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21020/?format=json"
+            }
+        ],
+        "id": 4074,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4074/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.darton-east.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21047,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170782,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46876,
+                        "name": "Harry Spence",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46876/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000979",
+                        "label": "Darton East",
+                        "slug": "MTW:E05000979",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000979/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170782/?format=json"
+                },
+                "num_ballots": 1523,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4078/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21047/?format=json"
+            },
+            {
+                "id": 21045,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170781,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9595,
+                        "name": "George Hill",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9595/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000979",
+                        "label": "Darton East",
+                        "slug": "MTW:E05000979",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000979/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170781/?format=json"
+                },
+                "num_ballots": 455,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4078/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21045/?format=json"
+            },
+            {
+                "id": 21046,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168835,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45463,
+                        "name": "Steve Hunt",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45463/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000979",
+                        "label": "Darton East",
+                        "slug": "MTW:E05000979",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000979/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168835/?format=json"
+                },
+                "num_ballots": 415,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4078/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21046/?format=json"
+            }
+        ],
+        "id": 4078,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4078/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.darton-west.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21061,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170607,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46750,
+                        "name": "Sharon Howard",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46750/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000980",
+                        "label": "Darton West",
+                        "slug": "MTW:E05000980",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000980/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170607/?format=json"
+                },
+                "num_ballots": 1279,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4080/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21061/?format=json"
+            },
+            {
+                "id": 21062,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170608,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9538,
+                        "name": "Lee Ogden",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9538/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000980",
+                        "label": "Darton West",
+                        "slug": "MTW:E05000980",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000980/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170608/?format=json"
+                },
+                "num_ballots": 581,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4080/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21062/?format=json"
+            },
+            {
+                "id": 21060,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170606,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46749,
+                        "name": "Tom Heyes",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46749/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000980",
+                        "label": "Darton West",
+                        "slug": "MTW:E05000980",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000980/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170606/?format=json"
+                },
+                "num_ballots": 324,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4080/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21060/?format=json"
+            },
+            {
+                "id": 21063,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168836,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45464,
+                        "name": "Andrew Stephen Waters",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45464/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000980",
+                        "label": "Darton West",
+                        "slug": "MTW:E05000980",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000980/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168836/?format=json"
+                },
+                "num_ballots": 132,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4080/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21063/?format=json"
+            }
+        ],
+        "id": 4080,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4080/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.dearne-north.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21065,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170327,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46546,
+                        "name": "Annette Gollick",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46546/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000981",
+                        "label": "Dearne North",
+                        "slug": "MTW:E05000981",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000981/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170327/?format=json"
+                },
+                "num_ballots": 1107,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4081/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21065/?format=json"
+            },
+            {
+                "id": 21064,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170326,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46545,
+                        "name": "Joseph Farnfield",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46545/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000981",
+                        "label": "Dearne North",
+                        "slug": "MTW:E05000981",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000981/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170326/?format=json"
+                },
+                "num_ballots": 273,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4081/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21064/?format=json"
+            }
+        ],
+        "id": 4081,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4081/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.dearne-south.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21068,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172145,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47899,
+                        "name": "May Noble",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47899/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000982",
+                        "label": "Dearne South",
+                        "slug": "MTW:E05000982",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000982/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172145/?format=json"
+                },
+                "num_ballots": 1415,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4082/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21068/?format=json"
+            },
+            {
+                "id": 21066,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170470,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46654,
+                        "name": "Sharon Jackson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46654/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000982",
+                        "label": "Dearne South",
+                        "slug": "MTW:E05000982",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000982/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170470/?format=json"
+                },
+                "num_ballots": 292,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4082/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21066/?format=json"
+            },
+            {
+                "id": 21067,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170475,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46657,
+                        "name": "Sara Anne Lewis",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46657/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000982",
+                        "label": "Dearne South",
+                        "slug": "MTW:E05000982",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000982/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170475/?format=json"
+                },
+                "num_ballots": 184,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4082/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21067/?format=json"
+            }
+        ],
+        "id": 4082,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4082/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.dodworth.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21080,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171674,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47535,
+                        "name": "Neil Gareth Wright",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47535/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000983",
+                        "label": "Dodworth",
+                        "slug": "MTW:E05000983",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000983/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171674/?format=json"
+                },
+                "num_ballots": 956,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4084/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21080/?format=json"
+            },
+            {
+                "id": 21077,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171672,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:530",
+                        "name": "Barnsley Independent Group",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:530/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47534,
+                        "name": "Jack Carr",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47534/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000983",
+                        "label": "Dodworth",
+                        "slug": "MTW:E05000983",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000983/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171672/?format=json"
+                },
+                "num_ballots": 933,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4084/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21077/?format=json"
+            },
+            {
+                "id": 21078,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171673,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9578,
+                        "name": "Debbie Toon",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9578/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000983",
+                        "label": "Dodworth",
+                        "slug": "MTW:E05000983",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000983/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171673/?format=json"
+                },
+                "num_ballots": 476,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4084/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21078/?format=json"
+            },
+            {
+                "id": 21079,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168837,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45465,
+                        "name": "Susan Jane Waters",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45465/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000983",
+                        "label": "Dodworth",
+                        "slug": "MTW:E05000983",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000983/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168837/?format=json"
+                },
+                "num_ballots": 164,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4084/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21079/?format=json"
+            }
+        ],
+        "id": 4084,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4084/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.hoyland-milton.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21121,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172392,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48104,
+                        "name": "Robin Franklin",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48104/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000984",
+                        "label": "Hoyland Milton",
+                        "slug": "MTW:E05000984",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000984/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172392/?format=json"
+                },
+                "num_ballots": 1548,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4091/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21121/?format=json"
+            },
+            {
+                "id": 21123,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172393,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48105,
+                        "name": "Michael Joseph Payne",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48105/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000984",
+                        "label": "Hoyland Milton",
+                        "slug": "MTW:E05000984",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000984/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172393/?format=json"
+                },
+                "num_ballots": 356,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4091/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21123/?format=json"
+            },
+            {
+                "id": 21122,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168838,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45466,
+                        "name": "Glenn Charles Lawrence",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45466/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000984",
+                        "label": "Hoyland Milton",
+                        "slug": "MTW:E05000984",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000984/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168838/?format=json"
+                },
+                "num_ballots": 255,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4091/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21122/?format=json"
+            }
+        ],
+        "id": 4091,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4091/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.kingstone.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21145,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172106,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47867,
+                        "name": "Kath Mitchell",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47867/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000985",
+                        "label": "Kingstone",
+                        "slug": "MTW:E05000985",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000985/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172106/?format=json"
+                },
+                "num_ballots": 1078,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4094/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21145/?format=json"
+            },
+            {
+                "id": 21144,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168839,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 35276,
+                        "name": "John Stephen Ellis-Mourant",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/35276/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000985",
+                        "label": "Kingstone",
+                        "slug": "MTW:E05000985",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000985/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168839/?format=json"
+                },
+                "num_ballots": 423,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4094/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21144/?format=json"
+            },
+            {
+                "id": 21146,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172107,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9552,
+                        "name": "Lesley Anne Watkinson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9552/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000985",
+                        "label": "Kingstone",
+                        "slug": "MTW:E05000985",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000985/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172107/?format=json"
+                },
+                "num_ballots": 202,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4094/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21146/?format=json"
+            }
+        ],
+        "id": 4094,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4094/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+        {
+        "ballot_paper_id": "local.barnsley.monk-bretton.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21149,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172396,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48108,
+                        "name": "Kenneth Richardson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48108/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000986",
+                        "label": "Monk Bretton",
+                        "slug": "MTW:E05000986",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000986/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172396/?format=json"
+                },
+                "num_ballots": 1279,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21149/?format=json"
+            },
+            {
+                "id": 21148,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172395,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:6662",
+                        "name": "Democrats and Veterans Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:6662/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48107,
+                        "name": "Vicky Felton",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48107/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000986",
+                        "label": "Monk Bretton",
+                        "slug": "MTW:E05000986",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000986/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172395/?format=json"
+                },
+                "num_ballots": 342,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21148/?format=json"
+            },
+            {
+                "id": 21147,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172394,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48106,
+                        "name": "Adam Fletcher Bromfield",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48106/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000986",
+                        "label": "Monk Bretton",
+                        "slug": "MTW:E05000986",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000986/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172394/?format=json"
+                },
+                "num_ballots": 250,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21147/?format=json"
+            },
+            {
+                "id": 21151,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172397,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48109,
+                        "name": "Dean David Todd",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48109/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000986",
+                        "label": "Monk Bretton",
+                        "slug": "MTW:E05000986",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000986/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172397/?format=json"
+                },
+                "num_ballots": 119,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21151/?format=json"
+            },
+            {
+                "id": 21150,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168840,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45467,
+                        "name": "Susan Mary Rose",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45467/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000986",
+                        "label": "Monk Bretton",
+                        "slug": "MTW:E05000986",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000986/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168840/?format=json"
+                },
+                "num_ballots": 63,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21150/?format=json"
+            }
+        ],
+        "id": 4095,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4095/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.north-east.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21167,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172399,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48111,
+                        "name": "Dorothy Higginbottom",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/48111/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000987",
+                        "label": "North East",
+                        "slug": "MTW:E05000987",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000987/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172399/?format=json"
+                },
+                "num_ballots": 1397,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4097/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21167/?format=json"
+            },
+            {
+                "id": 21166,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 173415,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "The Yorkshire Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:2055/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 7226,
+                        "name": "Tony Devoy",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/7226/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000987",
+                        "label": "North East",
+                        "slug": "MTW:E05000987",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000987/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/173415/?format=json"
+                },
+                "num_ballots": 593,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4097/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21166/?format=json"
+            },
+            {
+                "id": 21168,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 173573,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9528,
+                        "name": "Elizabeth Hill",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9528/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000987",
+                        "label": "North East",
+                        "slug": "MTW:E05000987",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000987/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/173573/?format=json"
+                },
+                "num_ballots": 179,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4097/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21168/?format=json"
+            }
+        ],
+        "id": 4097,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4097/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.old-town.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21204,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 155539,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 35789,
+                        "name": "Clive Pickering",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/35789/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000988",
+                        "label": "Old Town",
+                        "slug": "MTW:E05000988",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000988/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/155539/?format=json"
+                },
+                "num_ballots": 1206,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4102/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21204/?format=json"
+            },
+            {
+                "id": 21203,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 165280,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/ynmp-party:2/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42852,
+                        "name": "Mark Houchin",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42852/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000988",
+                        "label": "Old Town",
+                        "slug": "MTW:E05000988",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000988/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/165280/?format=json"
+                },
+                "num_ballots": 493,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4102/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21203/?format=json"
+            },
+            {
+                "id": 21205,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 165281,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9584,
+                        "name": "Clive Watkinson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9584/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000988",
+                        "label": "Old Town",
+                        "slug": "MTW:E05000988",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000988/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/165281/?format=json"
+                },
+                "num_ballots": 334,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4102/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21205/?format=json"
+            },
+            {
+                "id": 21202,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 165278,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 42850,
+                        "name": "Kevin Bennett",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/42850/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000988",
+                        "label": "Old Town",
+                        "slug": "MTW:E05000988",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000988/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/165278/?format=json"
+                },
+                "num_ballots": 166,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4102/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21202/?format=json"
+            }
+        ],
+        "id": 4102,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4102/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.penistone-east.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21219,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170143,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46418,
+                        "name": "Robert John Barnard",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46418/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000989",
+                        "label": "Penistone East",
+                        "slug": "MTW:E05000989",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000989/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170143/?format=json"
+                },
+                "num_ballots": 1913,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4104/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21219/?format=json"
+            },
+            {
+                "id": 21220,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170139,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46416,
+                        "name": "Martin Andrew Flack",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46416/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000989",
+                        "label": "Penistone East",
+                        "slug": "MTW:E05000989",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000989/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170139/?format=json"
+                },
+                "num_ballots": 1189,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4104/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21220/?format=json"
+            },
+            {
+                "id": 21221,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168841,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45468,
+                        "name": "David Sean Greenhough",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45468/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000989",
+                        "label": "Penistone East",
+                        "slug": "MTW:E05000989",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000989/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168841/?format=json"
+                },
+                "num_ballots": 332,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4104/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21221/?format=json"
+            },
+            {
+                "id": 21222,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 170148,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 46420,
+                        "name": "Kate Helen Raynor",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/46420/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000989",
+                        "label": "Penistone East",
+                        "slug": "MTW:E05000989",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000989/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/170148/?format=json"
+                },
+                "num_ballots": 255,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4104/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21222/?format=json"
+            }
+        ],
+        "id": 4104,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4104/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.penistone-west.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21240,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 155750,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 35931,
+                        "name": "Hannah Ruth Kitching",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/35931/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000990",
+                        "label": "Penistone West",
+                        "slug": "MTW:E05000990",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000990/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/155750/?format=json"
+                },
+                "num_ballots": 1741,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4107/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21240/?format=json"
+            },
+            {
+                "id": 21241,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171827,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47649,
+                        "name": "Jo Newing",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47649/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000990",
+                        "label": "Penistone West",
+                        "slug": "MTW:E05000990",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000990/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171827/?format=json"
+                },
+                "num_ballots": 963,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4107/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21241/?format=json"
+            },
+            {
+                "id": 21243,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 173841,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47650,
+                        "name": "Alex Wilkinson",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47650/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000990",
+                        "label": "Penistone West",
+                        "slug": "MTW:E05000990",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000990/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/173841/?format=json"
+                },
+                "num_ballots": 840,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4107/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21243/?format=json"
+            },
+            {
+                "id": 21242,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 171828,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9573,
+                        "name": "Richard Thomas James Trotman",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9573/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000990",
+                        "label": "Penistone West",
+                        "slug": "MTW:E05000990",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000990/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/171828/?format=json"
+                },
+                "num_ballots": 204,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4107/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21242/?format=json"
+            }
+        ],
+        "id": 4107,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4107/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.rockingham.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21258,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 167204,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 44350,
+                        "name": "James Gregory Andrews",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/44350/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000991",
+                        "label": "Rockingham",
+                        "slug": "MTW:E05000991",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000991/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/167204/?format=json"
+                },
+                "num_ballots": 1242,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4112/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21258/?format=json"
+            },
+            {
+                "id": 21259,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 167205,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 44351,
+                        "name": "Michael James Davies",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/44351/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000991",
+                        "label": "Rockingham",
+                        "slug": "MTW:E05000991",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000991/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/167205/?format=json"
+                },
+                "num_ballots": 524,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4112/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21259/?format=json"
+            },
+            {
+                "id": 21261,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 167207,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:17",
+                        "name": "English Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:17/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 5809,
+                        "name": "Kevin David Riddiough",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/5809/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000991",
+                        "label": "Rockingham",
+                        "slug": "MTW:E05000991",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000991/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/167207/?format=json"
+                },
+                "num_ballots": 235,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4112/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21261/?format=json"
+            },
+            {
+                "id": 21260,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 167206,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 35469,
+                        "name": "Paul Nugent",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/35469/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000991",
+                        "label": "Rockingham",
+                        "slug": "MTW:E05000991",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000991/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/167206/?format=json"
+                },
+                "num_ballots": 115,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4112/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21260/?format=json"
+            }
+        ],
+        "id": 4112,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4112/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.royston.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21262,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168711,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 45362,
+                        "name": "Tim Cheetham",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/45362/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000992",
+                        "label": "Royston",
+                        "slug": "MTW:E05000992",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000992/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168711/?format=json"
+                },
+                "num_ballots": 1315,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4113/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21262/?format=json"
+            },
+            {
+                "id": 21263,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168713,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/ynmp-party:2/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9580,
+                        "name": "Edward Alan Gouthwaite",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9580/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000992",
+                        "label": "Royston",
+                        "slug": "MTW:E05000992",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000992/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168713/?format=json"
+                },
+                "num_ballots": 364,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4113/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21263/?format=json"
+            },
+            {
+                "id": 21264,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 168715,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9600,
+                        "name": "Mike Toon",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9600/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000992",
+                        "label": "Royston",
+                        "slug": "MTW:E05000992",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000992/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/168715/?format=json"
+                },
+                "num_ballots": 224,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4113/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21264/?format=json"
+            }
+        ],
+        "id": 4113,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4113/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.st-helens.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21267,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172184,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47925,
+                        "name": "Dave Leech",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47925/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000993",
+                        "label": "St Helens",
+                        "slug": "MTW:E05000993",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000993/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172184/?format=json"
+                },
+                "num_ballots": 1238,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4114/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21267/?format=json"
+            },
+            {
+                "id": 21265,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172182,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9553,
+                        "name": "Steven John Burkinshaw",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9553/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000993",
+                        "label": "St Helens",
+                        "slug": "MTW:E05000993",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000993/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172182/?format=json"
+                },
+                "num_ballots": 190,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4114/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21265/?format=json"
+            },
+            {
+                "id": 21266,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172183,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9597,
+                        "name": "Alan Jones",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9597/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000993",
+                        "label": "St Helens",
+                        "slug": "MTW:E05000993",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000993/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172183/?format=json"
+                },
+                "num_ballots": 187,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4114/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21266/?format=json"
+            }
+        ],
+        "id": 4114,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4114/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.stairfoot.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21268,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172188,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47929,
+                        "name": "Janine Marie Bowler",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47929/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000994",
+                        "label": "Stairfoot",
+                        "slug": "MTW:E05000994",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000994/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172188/?format=json"
+                },
+                "num_ballots": 1173,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4115/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21268/?format=json"
+            },
+            {
+                "id": 21270,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172190,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:530",
+                        "name": "Barnsley Independent Group",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:530/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 47930,
+                        "name": "Andy Gillis",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/47930/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000994",
+                        "label": "Stairfoot",
+                        "slug": "MTW:E05000994",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000994/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172190/?format=json"
+                },
+                "num_ballots": 521,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4115/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21270/?format=json"
+            },
+            {
+                "id": 21269,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 172189,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 9525,
+                        "name": "Mark James Brook",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/9525/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000994",
+                        "label": "Stairfoot",
+                        "slug": "MTW:E05000994",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000994/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/172189/?format=json"
+                },
+                "num_ballots": 265,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4115/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21269/?format=json"
+            }
+        ],
+        "id": 4115,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4115/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.barnsley.wombwell.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21284,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 159913,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 38960,
+                        "name": "Robert Frost",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/38960/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000995",
+                        "label": "Wombwell",
+                        "slug": "MTW:E05000995",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000995/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/159913/?format=json"
+                },
+                "num_ballots": 1363,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4117/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21284/?format=json"
+            },
+            {
+                "id": 21282,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 159911,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 38958,
+                        "name": "Joe Colville",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/38958/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000995",
+                        "label": "Wombwell",
+                        "slug": "MTW:E05000995",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000995/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/159911/?format=json"
+                },
+                "num_ballots": 415,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4117/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21282/?format=json"
+            },
+            {
+                "id": 21283,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 159912,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:63/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 38959,
+                        "name": "Terence Anthony Cook",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/38959/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000995",
+                        "label": "Wombwell",
+                        "slug": "MTW:E05000995",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000995/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/159912/?format=json"
+                },
+                "num_ballots": 240,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4117/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21283/?format=json"
+            }
+        ],
+        "id": 4117,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4117/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+        {
+        "ballot_paper_id": "local.barnsley.worsbrough.2018-05-03",
+        "candidate_results": [
+            {
+                "id": 21297,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 166767,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:53/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 5085,
+                        "name": "John Clarke",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/5085/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000996",
+                        "label": "Worsbrough",
+                        "slug": "MTW:E05000996",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000996/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/166767/?format=json"
+                },
+                "num_ballots": 1209,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4118/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21297/?format=json"
+            },
+            {
+                "id": 21295,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 166765,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:52/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 43996,
+                        "name": "Michael Alan Barraclough",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/43996/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000996",
+                        "label": "Worsbrough",
+                        "slug": "MTW:E05000996",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000996/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/166765/?format=json"
+                },
+                "num_ballots": 331,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4118/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21295/?format=json"
+            },
+            {
+                "id": 21296,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.barnsley.2018-05-03",
+                        "name": "Barnsley local election",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/elections/local.barnsley.2018-05-03/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 166766,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/organizations/party:90/?format=json"
+                    },
+                    "organization": null,
+                    "party_list_position": null,
+                    "person": {
+                        "id": 43997,
+                        "name": "Sarah Calvert",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/persons/43997/?format=json"
+                    },
+                    "post": {
+                        "id": "MTW:E05000996",
+                        "label": "Worsbrough",
+                        "slug": "MTW:E05000996",
+                        "url": "http://candidates.democracyclub.org.uk/api/v0.9/posts/MTW:E05000996/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "http://candidates.democracyclub.org.uk/api/v0.9/memberships/166766/?format=json"
+                },
+                "num_ballots": 266,
+                "result_set": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4118/?format=json",
+                "url": "http://candidates.democracyclub.org.uk/api/v0.9/candidate_results/21296/?format=json"
+            }
+        ],
+        "id": 4118,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "url": "http://candidates.democracyclub.org.uk/api/v0.9/result_sets/4118/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+
 ];
