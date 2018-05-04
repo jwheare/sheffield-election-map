@@ -80,7 +80,7 @@ L.geoJSON(BOUNDARIES, {
             tt += '<h2 class="results__head">';
             tt += safe(ward.post.label);
             tt += ' - ';
-            tt += safe(ward.election.name);
+            tt += safe(ward.election.name.replace(/ local election$/, ''));
             tt += '</h2>';
 
             tt += '<table class="results__table" cellspacing="0" cellpadding="5">'
