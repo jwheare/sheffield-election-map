@@ -57,20 +57,25 @@ L.geoJSON(BOUNDARIES, {
     },
     style: function (feature) {
         var ward = wards[feature.properties.name];
-        var color;
+        var color = 'grey';
+        var fillOpacity = 0.01;
+        var weight = 0.5;
         if (ward && ward.winner) {
             color = colors[ward.winner.membership.on_behalf_of.id] || 'grey';
+            fillOpacity = 0.4;
+            weight = 2;
         }
         return {
+            weight: weight,
             color: color,
-            fillColor: color,
-            fillOpacity: 0.4
+            fillOpacity: fillOpacity,
+            fillColor: color
         };
     },
     onEachFeature: function (feature, layer) {
         var ward = wards[feature.properties.name];
+        var tt = '';
         if (ward) {
-            var tt = '';
             if (ward.turnout) {
                 tt += '<div class="results__turnout">'
                 tt += 'turnout: ' + safe(ward.turnout) + '%';
@@ -109,9 +114,10 @@ L.geoJSON(BOUNDARIES, {
             });
 
             tt += '</table>'
-
-            layer.bindTooltip(tt);
+        } else {
+            tt += safe(feature.properties.fullname);
         }
+        layer.bindTooltip(tt);
     }
 }).addTo(mymap);
 })();
