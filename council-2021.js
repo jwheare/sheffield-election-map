@@ -158,7 +158,7 @@ var COUNCILLORS = {
     "ECCLESALL": {
         "seats": [
             {
-                "name": "Roger Davison",
+                "name": "Roger Noel Davison",
                 "party": "Liberal Democrats"
             },
             {
@@ -622,7 +622,7 @@ var COUNCILLORS = {
                 "party": "Conservative"
             },
             {
-                "name": "John Wilson",
+                "name": "John Major Wilson",
                 "party": "Conservative"
             }
         ]

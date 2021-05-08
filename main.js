@@ -64,7 +64,10 @@ function safe(text) {
 }
 
 function normaliseName(name) {
-    return name.replace(/ [MCO]BE$/, '').replace(/ BEM$/, '').replace(/^Sir /, '');
+    return name.replace(/ [MCO]BE$/, '')
+        .replace(/ BEM$/, '')
+        .replace(/ JP$/, '')
+        .replace(/^Sir /, '');
 }
 
 L.geoJSON(BOUNDARIES, {
