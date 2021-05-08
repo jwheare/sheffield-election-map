@@ -7,13 +7,13 @@ L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
     accessToken: 'pk.eyJ1IjoiandoZWFyZSIsImEiOiJjamdydW1zcDgwZWN4MnhzMzljdnltdTRzIn0.BTVyxizdqNGPnj8UaC1IOQ'
 }).addTo(mymap);
 
-var wards = {};
+var WARDS = {};
 RESULTS.forEach(function (res) {
     res.ballot_paper_id
     res.candidate_results.forEach(function (cand) {
         var wardUpper = cand.membership.post.label.toUpperCase();
-        if (!wards[wardUpper]) {
-            wards[wardUpper] = {
+        if (!WARDS[wardUpper]) {
+            WARDS[wardUpper] = {
                 election: cand.membership.election,
                 post: cand.membership.post,
                 results: [],
@@ -21,27 +21,39 @@ RESULTS.forEach(function (res) {
                 ballot_paper_id: res.ballot_paper_id
             }
         }
-        wards[wardUpper].results.push(cand);
+        WARDS[wardUpper].results.push(cand);
         if (cand.is_winner) {
-            wards[wardUpper].winner = cand;
+            WARDS[wardUpper].winner = cand;
         }
     });
 });
 
 var colors = {
-    'party:90': 'orange',
-    'party:53': '#f55',
-    'joint-party:53-119': '#f55',
-    'party:52': '#33f',
-    'party:63': '#3a3',
-    'party:85': 'purple'
+    'Liberal Democrats': 'orange',
+    'Labour': '#f55',
+    'Labour Party': '#f55',
+    'Labour and Co-operative Party': '#f55',
+    'Labour and Co-operative': '#f55',
+    'Conservative': '#33f',
+    'Conservative and Unionist Party': '#33f',
+    'Conservative and Unionist': '#33f',
+    'Green Party': '#3a3',
+    'UKIP': 'purple',
+    'UK Independence Party (UKIP)': 'purple',
+    'UK Independence Party': 'purple'
 };
 var text_colors = {
-    'party:53': '#fff',
-    'joint-party:53-119': '#fff',
-    'party:52': '#fff',
-    'party:63': '#fff',
-    'party:85': '#fff'
+    'Labour': '#fff',
+    'Labour Party': '#fff',
+    'Labour and Co-operative Party': '#fff',
+    'Labour and Co-operative': '#fff',
+    'Conservative': '#fff',
+    'Conservative and Unionist Party': '#fff',
+    'Conservative and Unionist': '#fff',
+    'Green Party': '#fff',
+    'UKIP': '#fff',
+    'UK Independence Party (UKIP)': '#fff',
+    'UK Independence Party': '#fff'
 };
 
 function safe(text) {
@@ -56,12 +68,12 @@ L.geoJSON(BOUNDARIES, {
         return /, (SHEFFIELD)|(BARNSLEY) DISTRICT$/.test(feature.properties.fullname);
     },
     style: function (feature) {
-        var ward = wards[feature.properties.name];
+        var ward = WARDS[feature.properties.name];
         var color = 'grey';
         var fillOpacity = 0.01;
         var weight = 0.5;
         if (ward && ward.winner) {
-            color = colors[ward.winner.membership.on_behalf_of.id] || 'grey';
+            color = colors[ward.winner.membership.on_behalf_of.name] || 'grey';
             fillOpacity = 0.4;
             weight = 2;
         }
@@ -73,7 +85,7 @@ L.geoJSON(BOUNDARIES, {
         };
     },
     onEachFeature: function (feature, layer) {
-        var ward = wards[feature.properties.name];
+        var ward = WARDS[feature.properties.name];
         var tt = '';
         if (ward) {
             if (ward.turnout) {
@@ -96,8 +108,8 @@ L.geoJSON(BOUNDARIES, {
             tt += '</tr>'
 
             ward.results.forEach(function (res) {
-                var bg = colors[res.membership.on_behalf_of.id] || 'grey';
-                var color = text_colors[res.membership.on_behalf_of.id] || 'black';
+                var bg = colors[res.membership.on_behalf_of.name] || 'grey';
+                var color = text_colors[res.membership.on_behalf_of.name] || 'black';
 
                 tt += '<tr'
                 if (res.is_winner) {
@@ -114,6 +126,24 @@ L.geoJSON(BOUNDARIES, {
             });
 
             tt += '</table>'
+
+            if (window.COUNCILLORS) {
+                var council = COUNCILLORS[feature.properties.name];
+                if (council) {
+                    tt += '<hr>';
+                    tt += '<h3>Previous Council makeup</h3>';
+                    tt += '<div class="results__incumbents">';
+                    council.seats.forEach((seat) => {
+                        var inc_bg = colors[seat.party] || 'grey';
+                        tt += '<p>';
+                        tt += '<span class="results__incumbent" style="background: ' + inc_bg + '" title="' + safe(seat.party) + ': ' + safe(seat.name) + '">';
+                        tt += '</span>';
+                        tt += safe(seat.party) + ': ' + safe(seat.name);
+                        tt += '</p>'
+                    });
+                    tt += '</div>';
+                }
+            }
         } else {
             tt += safe(feature.properties.fullname);
         }
