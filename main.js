@@ -63,6 +63,10 @@ function safe(text) {
         .replace(/"/g, '&quot;');
 }
 
+function normaliseName(name) {
+    return name.replace(/ [MCO]BE$/, '').replace(/ BEM$/, '').replace(/^Sir /, '');
+}
+
 L.geoJSON(BOUNDARIES, {
     filter: function (feature) {
         return /, (SHEFFIELD)|(BARNSLEY) DISTRICT$/.test(feature.properties.fullname);
@@ -107,15 +111,19 @@ L.geoJSON(BOUNDARIES, {
             tt += '<th>Votes</th>'
             tt += '</tr>'
 
+            var winner;
+            var losers = {};
             ward.results.forEach(function (res) {
                 var bg = colors[res.membership.on_behalf_of.name] || 'grey';
                 var color = text_colors[res.membership.on_behalf_of.name] || 'black';
 
                 tt += '<tr'
                 if (res.is_winner) {
+                    winner = res.membership.person.name;
                     tt += ' class="results__winner"';
                     tt += ' style="background: ' + bg + '; color: ' + color + '"';
                 } else {
+                    losers[res.membership.person.name] = true;
                     tt += ' style="color: ' + bg + '"';
                 }
                 tt += '>';
@@ -139,6 +147,13 @@ L.geoJSON(BOUNDARIES, {
                         tt += '<span class="results__incumbent" style="background: ' + inc_bg + '" title="' + safe(seat.party) + ': ' + safe(seat.name) + '">';
                         tt += '</span>';
                         tt += safe(seat.party) + ': ' + safe(seat.name);
+                        var normName = normaliseName(seat.name);
+                        if (normName == winner) {
+                            tt += ' <b>(hold)</b>';
+                        }
+                        if (losers[normName]) {
+                            tt += ' <b>(lost)</b>';
+                        }
                         tt += '</p>'
                     });
                     tt += '</div>';

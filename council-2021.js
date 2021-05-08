@@ -450,7 +450,7 @@ var COUNCILLORS = {
                 "party": "Labour"
             },
             {
-                "name": "Sir Stephen Houghton CBE",
+                "name": "Sir Steve Houghton CBE",
                 "party": "Labour"
             },
             {
