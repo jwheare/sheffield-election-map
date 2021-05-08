@@ -1,9 +1,9 @@
 (function () {
 var mymap = L.map('mapid').setView([53.455, -1.528494], 11);
-L.tileLayer('https://api.tiles.mapbox.com/v4/{id}/{z}/{x}/{y}.png?access_token={accessToken}', {
+L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
     attribution: 'Map data © <a href="http://openstreetmap.org" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com" target="_blank" rel="noreferrer">Mapbox</a>, Boundary data © <a href="https://www.ordnancesurvey.co.uk/election-maps/gb/?x=441165&y=398063&z=4&bnd1=MTW&bnd2=&labels=off" target="_blank" rel="noreferrer">OS</a>, Result data © <a href="https://candidates.democracyclub.org.uk/" target="_blank" rel="noreferrer">Democracy Club</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a></p>',
     maxZoom: 18,
-    id: 'mapbox.streets',
+    id: 'mapbox/light-v10',
     accessToken: 'pk.eyJ1IjoiandoZWFyZSIsImEiOiJjamdydW1zcDgwZWN4MnhzMzljdnltdTRzIn0.BTVyxizdqNGPnj8UaC1IOQ'
 }).addTo(mymap);
 
