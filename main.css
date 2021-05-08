@@ -1,0 +1,32 @@
+html {
+    font-family: sans-serif;
+}
+#mapid { height: 800px; }
+.results__turnout {
+    float: right;
+    font-size: 0.7rem;
+    line-height: 1rem;
+    padding: 5px;
+    color: #666;
+}
+.results__head {
+    margin: 0;
+    padding: 0 5px;
+    font-weight: 400;
+    font-size: 1rem;
+}
+.results__table {
+    margin: 0;
+    padding: 0;
+}
+.results__table th {
+    text-align: left;
+    font-weight: 400;
+    color: #666;
+}
+.results__winner {
+    font-weight: 600;
+}
+.result__votes {
+    text-align: right;
+}
