@@ -142,6 +142,8 @@ L.geoJSON(BOUNDARIES, {
                         tt += '</p>'
                     });
                     tt += '</div>';
+                } else {
+                    // console.log(feature.properties.name);
                 }
             }
         } else {

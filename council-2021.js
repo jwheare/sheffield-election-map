@@ -671,7 +671,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "ST. HELEN'S": {
+    "ST HELENS": {
         "seats": [
             {
                 "name": "Dave Leech",
