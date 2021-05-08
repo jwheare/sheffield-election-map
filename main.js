@@ -17,7 +17,7 @@ RESULTS.forEach(function (res) {
                 election: cand.membership.election,
                 post: cand.membership.post,
                 results: [],
-                turnout: res.num_turnout_reported,
+                turnout: res.turnout_percentage,
                 ballot_paper_id: res.ballot_paper_id
             }
         }
