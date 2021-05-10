@@ -86,31 +86,51 @@ L.geoJSON(BOUNDARIES, {
         var color = 'grey';
         var fillOpacity = 0.01;
         var weight = 0.5;
+        var pattern;
         if (ward && ward.winners) {
             var partyVotes = {};
             ward.winners.forEach(c => {
-                if (!partyVotes[c.membership.on_behalf_of.name]) {
-                    partyVotes[c.membership.on_behalf_of.name] = 0;
+                var cp = c.membership.on_behalf_of.name;
+                if (!partyVotes[cp]) {
+                    partyVotes[cp] = 0;
                 }
-                partyVotes[c.membership.on_behalf_of.name] += c.num_ballots;
+                partyVotes[cp] += c.num_ballots;
             });
-            var partyWinner;
+            var partyWinner, partyRunnerUp;
             for (p in partyVotes) {
                 if (partyWinner && partyVotes[partyWinner] >= partyVotes[p]) {
                     continue;
                 }
+                if (partyWinner) {
+                    partyRunnerUp = partyWinner;
+                }
                 partyWinner = p;
+            }
+            if (Object.keys(partyVotes).length > 1 && partyRunnerUp) {
+                console.log(partyVotes, feature.properties.fullname, partyRunnerUp, colors[partyRunnerUp] || 'grey');
+                pattern = new L.StripePattern({
+                    color: colors[partyWinner] || 'grey',
+                    spaceColor: colors[partyRunnerUp] || 'grey',
+                    opacity: 1,
+                    spaceOpacity: 1
+                });
+                pattern.addTo(mymap);
             }
             color = colors[partyWinner] || 'grey';
             fillOpacity = 0.4;
             weight = 2;
         }
-        return {
+        var ret = {
             weight: weight,
             color: color,
-            fillOpacity: fillOpacity,
-            fillColor: color
+            fillOpacity: fillOpacity
         };
+        if (pattern) {
+            ret.fillPattern = pattern;
+        } else {
+            ret.color = color;
+        }
+        return ret;
     },
     onEachFeature: function (feature, layer) {
         var ward = WARDS[feature.properties.fullname];
@@ -138,8 +158,9 @@ L.geoJSON(BOUNDARIES, {
             var winners = {};
             var losers = {};
             ward.results.forEach(function (res) {
-                var bg = colors[res.membership.on_behalf_of.name] || 'grey';
-                var color = text_colors[res.membership.on_behalf_of.name] || 'black';
+                var rp = res.membership.on_behalf_of.name;
+                var bg = colors[rp] || 'grey';
+                var color = text_colors[rp] || 'black';
 
                 tt += '<tr'
                 if (res.is_winner) {
@@ -152,7 +173,7 @@ L.geoJSON(BOUNDARIES, {
                 }
                 tt += '>';
                 tt += '<td class="result__candidate">' + safe(res.membership.person.name) + '</td>'
-                tt += '<td class="result__party">' + safe(res.membership.on_behalf_of.name) + '</td>'
+                tt += '<td class="result__party">' + safe(rp) + '</td>'
                 tt += '<td class="result__votes">' + safe(res.num_ballots) + '</td>'
                 tt += '</tr>'
             });
