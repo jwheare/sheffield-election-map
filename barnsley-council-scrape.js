@@ -5,7 +5,7 @@ COUNCILLORS.each((idx, row) => {
     var cells = $(row).find('td');
     var name = $(cells[1]).find('p')[0].innerText.replace(/Councillor /, '');
     var party = cells[2].innerText;
-    var ward = cells[3].innerText.replace(' and ', ' & ').toUpperCase();
+    var ward = cells[3].innerText.replace(' and ', ' & ').toUpperCase() + ', BARNSLEY DISTRICT';
     console.log(ward, party, name);
     if (!WARDS[ward]) {
         WARDS[ward] = {

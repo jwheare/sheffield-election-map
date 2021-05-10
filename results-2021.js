@@ -4,6 +4,12 @@
 // https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.barnsley.2021-05-06&format=json
 // https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.barnsley.2021-05-06&format=json&page=2
 // https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.barnsley.2021-05-06&format=json&page=3
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.rotherham.2021-05-06&format=json
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.rotherham.2021-05-06&format=json&page=2
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.rotherham.2021-05-06&format=json&page=3
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.doncaster.2021-05-06&format=json
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.doncaster.2021-05-06&format=json&page=2
+// https://candidates.democracyclub.org.uk/api/v0.9/result_sets/?election_date=&election_id=local.doncaster.2021-05-06&format=json&page=3
 var RESULTS = [
     {
         "ballot_paper_id": "local.sheffield.ecclesall.2021-05-06",
@@ -4334,7 +4340,7 @@ var RESULTS = [
                     "party_list_position": null,
                     "person": {
                         "id": 76287,
-                        "name": "Sarah Tatterall",
+                        "name": "Sarah Tattersall",
                         "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76287/?format=json"
                     },
                     "post": {
@@ -10039,5 +10045,14626 @@ var RESULTS = [
         "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/14520/?format=json",
         "user": "jwheare",
         "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.anston-woodsetts.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81431,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213216,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73435,
+                        "name": "Tim Baum-Dixon",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73435/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213216/?format=json"
+                },
+                "num_ballots": 1491,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81431/?format=json"
+            },
+            {
+                "id": 81443,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214911,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74223,
+                        "name": "Tracey Wilson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74223/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214911/?format=json"
+                },
+                "num_ballots": 1341,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81443/?format=json"
+            },
+            {
+                "id": 81438,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228849,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81462,
+                        "name": "Emma Jane McClure",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81462/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228849/?format=json"
+                },
+                "num_ballots": 1020,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81438/?format=json"
+            },
+            {
+                "id": 81440,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228851,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81464,
+                        "name": "Drew Simon Tarmey",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81464/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228851/?format=json"
+                },
+                "num_ballots": 1005,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81440/?format=json"
+            },
+            {
+                "id": 81432,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228843,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81460,
+                        "name": "Joanne Helen Carr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81460/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228843/?format=json"
+                },
+                "num_ballots": 906,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81432/?format=json"
+            },
+            {
+                "id": 81441,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228852,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81465,
+                        "name": "Bev Thornley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81465/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228852/?format=json"
+                },
+                "num_ballots": 786,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81441/?format=json"
+            },
+            {
+                "id": 81442,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228853,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18404,
+                        "name": "Simon Andrew Tweed",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18404/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228853/?format=json"
+                },
+                "num_ballots": 744,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81442/?format=json"
+            },
+            {
+                "id": 81436,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228847,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18327,
+                        "name": "Clive Robert Jepson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18327/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228847/?format=json"
+                },
+                "num_ballots": 737,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81436/?format=json"
+            },
+            {
+                "id": 81435,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228846,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18326,
+                        "name": "Jonathan Charles Ireland",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18326/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228846/?format=json"
+                },
+                "num_ballots": 535,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81435/?format=json"
+            },
+            {
+                "id": 81439,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228850,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81463,
+                        "name": "Matt Mears",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81463/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228850/?format=json"
+                },
+                "num_ballots": 522,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81439/?format=json"
+            },
+            {
+                "id": 81437,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228848,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18518,
+                        "name": "Steve Marles",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18518/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228848/?format=json"
+                },
+                "num_ballots": 461,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81437/?format=json"
+            },
+            {
+                "id": 81434,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228845,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18324,
+                        "name": "David Foulstone",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18324/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228845/?format=json"
+                },
+                "num_ballots": 375,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81434/?format=json"
+            },
+            {
+                "id": 81433,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228844,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11382",
+                        "name": "Workers Party of Britain"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81461,
+                        "name": "Thomas Lang Darksen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81461/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:anston-and-woodsetts",
+                        "label": "Anston & Woodsetts",
+                        "slug": "anston-woodsetts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/anston-woodsetts/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228844/?format=json"
+                },
+                "num_ballots": 47,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81433/?format=json"
+            }
+        ],
+        "id": 15961,
+        "num_spoilt_ballots": 30,
+        "num_turnout_reported": 3661,
+        "total_electorate": 9527,
+        "turnout_percentage": 38.43,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15961/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.aston-todwick.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81450,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232220,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82896,
+                        "name": "Joshua Bacon",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82896/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232220/?format=json"
+                },
+                "num_ballots": 1103,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81450/?format=json"
+            },
+            {
+                "id": 81452,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232221,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82897,
+                        "name": "Aaron Barker",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82897/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232221/?format=json"
+                },
+                "num_ballots": 1025,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81452/?format=json"
+            },
+            {
+                "id": 81457,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232226,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18418,
+                        "name": "Robert Paul Taylor",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18418/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232226/?format=json"
+                },
+                "num_ballots": 905,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81457/?format=json"
+            },
+            {
+                "id": 81453,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232223,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82899,
+                        "name": "Amanda Marie Clarke",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82899/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232223/?format=json"
+                },
+                "num_ballots": 783,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81453/?format=json"
+            },
+            {
+                "id": 81451,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232222,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82898,
+                        "name": "Louisa Kathryn Barker",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82898/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232222/?format=json"
+                },
+                "num_ballots": 250,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81451/?format=json"
+            },
+            {
+                "id": 81456,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232225,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82901,
+                        "name": "Harry Ratcliffe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82901/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232225/?format=json"
+                },
+                "num_ballots": 143,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81456/?format=json"
+            },
+            {
+                "id": 81455,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232224,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82900,
+                        "name": "Chris Hallam-Wall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82900/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232224/?format=json"
+                },
+                "num_ballots": 141,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81455/?format=json"
+            },
+            {
+                "id": 81454,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213936,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73741,
+                        "name": "Josh Fields",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73741/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aston-and-todwick",
+                        "label": "Aston & Todwick",
+                        "slug": "aston-todwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aston-todwick/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213936/?format=json"
+                },
+                "num_ballots": 68,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81454/?format=json"
+            }
+        ],
+        "id": 15964,
+        "num_spoilt_ballots": 22,
+        "num_turnout_reported": 2430,
+        "total_electorate": 7057,
+        "turnout_percentage": 34.43,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15964/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.aughton-swallownest.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81468,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232240,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18417,
+                        "name": "Lyndsay Pitchley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18417/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232240/?format=json"
+                },
+                "num_ballots": 817,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81468/?format=json"
+            },
+            {
+                "id": 81464,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232236,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82904,
+                        "name": "Jack Christopher Austin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82904/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232236/?format=json"
+                },
+                "num_ballots": 666,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81464/?format=json"
+            },
+            {
+                "id": 81465,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232237,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82905,
+                        "name": "Alexander William Dean",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82905/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232237/?format=json"
+                },
+                "num_ballots": 625,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81465/?format=json"
+            },
+            {
+                "id": 81469,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232241,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82908,
+                        "name": "David Neil Spence",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82908/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232241/?format=json"
+                },
+                "num_ballots": 503,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81469/?format=json"
+            },
+            {
+                "id": 81466,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213389,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18413,
+                        "name": "Mick Elliott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18413/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213389/?format=json"
+                },
+                "num_ballots": 341,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81466/?format=json"
+            },
+            {
+                "id": 81470,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232242,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11382",
+                        "name": "Workers Party of Britain"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82909,
+                        "name": "David James Tillery",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82909/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232242/?format=json"
+                },
+                "num_ballots": 136,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81470/?format=json"
+            },
+            {
+                "id": 81467,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232239,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82907,
+                        "name": "Mark Lambert",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82907/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:aughton-and-swallownest",
+                        "label": "Aughton & Swallownest",
+                        "slug": "aughton-swallownest",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/aughton-swallownest/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232239/?format=json"
+                },
+                "num_ballots": 107,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81467/?format=json"
+            }
+        ],
+        "id": 15967,
+        "num_spoilt_ballots": 32,
+        "num_turnout_reported": 1810,
+        "total_electorate": 6663,
+        "turnout_percentage": 27.16,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15967/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.boston-castle.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81478,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232247,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18349,
+                        "name": "Saghir Alam",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18349/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232247/?format=json"
+                },
+                "num_ballots": 1567,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81478/?format=json"
+            },
+            {
+                "id": 81484,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232253,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18352,
+                        "name": "Rose McNeely",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18352/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232253/?format=json"
+                },
+                "num_ballots": 1567,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81484/?format=json"
+            },
+            {
+                "id": 81487,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232256,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18354,
+                        "name": "Taiba Yasseen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18354/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232256/?format=json"
+                },
+                "num_ballots": 1366,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81487/?format=json"
+            },
+            {
+                "id": 81480,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232249,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82910,
+                        "name": "Ryan Alan Carney",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82910/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232249/?format=json"
+                },
+                "num_ballots": 917,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81480/?format=json"
+            },
+            {
+                "id": 81479,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232248,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 72118,
+                        "name": "Dennis Bannan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/72118/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232248/?format=json"
+                },
+                "num_ballots": 497,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81479/?format=json"
+            },
+            {
+                "id": 81481,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232250,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82911,
+                        "name": "Gary Hardwick",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82911/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232250/?format=json"
+                },
+                "num_ballots": 487,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81481/?format=json"
+            },
+            {
+                "id": 81486,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232255,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82916,
+                        "name": "Mike Shaw",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82916/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232255/?format=json"
+                },
+                "num_ballots": 405,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81486/?format=json"
+            },
+            {
+                "id": 81482,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232251,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82912,
+                        "name": "Martin David Howells",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82912/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232251/?format=json"
+                },
+                "num_ballots": 386,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81482/?format=json"
+            },
+            {
+                "id": 81485,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232254,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82915,
+                        "name": "Adam James Rodgers",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82915/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232254/?format=json"
+                },
+                "num_ballots": 286,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81485/?format=json"
+            },
+            {
+                "id": 81483,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232252,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82913,
+                        "name": "Lauren Jane Howie",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82913/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:boston-castle",
+                        "label": "Boston Castle",
+                        "slug": "boston-castle",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/boston-castle/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232252/?format=json"
+                },
+                "num_ballots": 214,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81483/?format=json"
+            }
+        ],
+        "id": 15970,
+        "num_spoilt_ballots": 30,
+        "num_turnout_reported": 3253,
+        "total_electorate": 9955,
+        "turnout_percentage": 32.68,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15970/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.bramley-ravenfield.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81508,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232284,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82932,
+                        "name": "Gregory Reynolds",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82932/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232284/?format=json"
+                },
+                "num_ballots": 1155,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81508/?format=json"
+            },
+            {
+                "id": 81506,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232282,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82930,
+                        "name": "Lewis Lennard Henry Malcolm Mills",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82930/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232282/?format=json"
+                },
+                "num_ballots": 931,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81506/?format=json"
+            },
+            {
+                "id": 81500,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232276,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14018,
+                        "name": "Andrew James Fenwick-Green",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14018/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232276/?format=json"
+                },
+                "num_ballots": 551,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81500/?format=json"
+            },
+            {
+                "id": 81501,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232277,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14865,
+                        "name": "Deborah Fenwick-Green",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14865/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232277/?format=json"
+                },
+                "num_ballots": 546,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81501/?format=json"
+            },
+            {
+                "id": 81502,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232278,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82926,
+                        "name": "Paul David Garrett",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82926/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232278/?format=json"
+                },
+                "num_ballots": 369,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81502/?format=json"
+            },
+            {
+                "id": 81507,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232283,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18520,
+                        "name": "Alan Derek Napper",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18520/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232283/?format=json"
+                },
+                "num_ballots": 277,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81507/?format=json"
+            },
+            {
+                "id": 81503,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232280,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82928,
+                        "name": "Nigel Gelder",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82928/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232280/?format=json"
+                },
+                "num_ballots": 227,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81503/?format=json"
+            },
+            {
+                "id": 81504,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232279,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82927,
+                        "name": "John Richard Gelder",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82927/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232279/?format=json"
+                },
+                "num_ballots": 137,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81504/?format=json"
+            },
+            {
+                "id": 81505,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213937,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73742,
+                        "name": "Luke Johnson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73742/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:bramley-and-ravenfield",
+                        "label": "Bramley & Ravenfield",
+                        "slug": "bramley-ravenfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bramley-ravenfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213937/?format=json"
+                },
+                "num_ballots": 47,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81505/?format=json"
+            }
+        ],
+        "id": 15974,
+        "num_spoilt_ballots": 18,
+        "num_turnout_reported": 2354,
+        "total_electorate": 7160,
+        "turnout_percentage": 32.88,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15974/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.brinsworth.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81515,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232288,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18365,
+                        "name": "Adam Jonathon Carter",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18365/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232288/?format=json"
+                },
+                "num_ballots": 1345,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81515/?format=json"
+            },
+            {
+                "id": 81514,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232289,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82933,
+                        "name": "Charlotte Rachel Carter",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82933/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232289/?format=json"
+                },
+                "num_ballots": 1108,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81514/?format=json"
+            },
+            {
+                "id": 81513,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232287,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18364,
+                        "name": "Alan Buckley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18364/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232287/?format=json"
+                },
+                "num_ballots": 774,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81513/?format=json"
+            },
+            {
+                "id": 81519,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232293,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82937,
+                        "name": "Philippa Wildin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82937/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232293/?format=json"
+                },
+                "num_ballots": 424,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81519/?format=json"
+            },
+            {
+                "id": 81516,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232290,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82934,
+                        "name": "Andrew Matthew Gorman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82934/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232290/?format=json"
+                },
+                "num_ballots": 351,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81516/?format=json"
+            },
+            {
+                "id": 81517,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232291,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18368,
+                        "name": "Nigel Gary Simpson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18368/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232291/?format=json"
+                },
+                "num_ballots": 229,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81517/?format=json"
+            },
+            {
+                "id": 81518,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232292,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82936,
+                        "name": "Royce Skelding",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82936/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:brinsworth",
+                        "label": "Brinsworth",
+                        "slug": "brinsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/brinsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232292/?format=json"
+                },
+                "num_ballots": 80,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81518/?format=json"
+            }
+        ],
+        "id": 15976,
+        "num_spoilt_ballots": 24,
+        "num_turnout_reported": 2419,
+        "total_electorate": 7546,
+        "turnout_percentage": 32.06,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15976/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.dalton-thrybergh.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81528,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232305,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82948,
+                        "name": "Michael Donald Paul Sylvester",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82948/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dalton-and-thrybergh",
+                        "label": "Dalton & Thrybergh",
+                        "slug": "dalton-thrybergh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dalton-thrybergh/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232305/?format=json"
+                },
+                "num_ballots": 1103,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81528/?format=json"
+            },
+            {
+                "id": 81524,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232301,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82945,
+                        "name": "Joanna Baker-Rogers",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82945/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dalton-and-thrybergh",
+                        "label": "Dalton & Thrybergh",
+                        "slug": "dalton-thrybergh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dalton-thrybergh/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232301/?format=json"
+                },
+                "num_ballots": 512,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81524/?format=json"
+            },
+            {
+                "id": 81525,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232302,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82946,
+                        "name": "Dianne Caster",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82946/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dalton-and-thrybergh",
+                        "label": "Dalton & Thrybergh",
+                        "slug": "dalton-thrybergh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dalton-thrybergh/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232302/?format=json"
+                },
+                "num_ballots": 432,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81525/?format=json"
+            },
+            {
+                "id": 81526,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232303,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18464,
+                        "name": "Jane Rosemary Salt",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18464/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dalton-and-thrybergh",
+                        "label": "Dalton & Thrybergh",
+                        "slug": "dalton-thrybergh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dalton-thrybergh/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232303/?format=json"
+                },
+                "num_ballots": 397,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81526/?format=json"
+            },
+            {
+                "id": 81527,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232304,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82947,
+                        "name": "Steve Simmons",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82947/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dalton-and-thrybergh",
+                        "label": "Dalton & Thrybergh",
+                        "slug": "dalton-thrybergh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dalton-thrybergh/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232304/?format=json"
+                },
+                "num_ballots": 117,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81527/?format=json"
+            }
+        ],
+        "id": 15978,
+        "num_spoilt_ballots": 10,
+        "num_turnout_reported": 1771,
+        "total_electorate": 6733,
+        "turnout_percentage": 26.3,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15978/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.dinnington.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81547,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232322,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82956,
+                        "name": "Charlie Andrew Wooding",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82956/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232322/?format=json"
+                },
+                "num_ballots": 1137,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81547/?format=json"
+            },
+            {
+                "id": 81546,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232321,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82955,
+                        "name": "Benjamin John Whomersley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82955/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232321/?format=json"
+                },
+                "num_ballots": 916,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81546/?format=json"
+            },
+            {
+                "id": 81539,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232314,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 66147,
+                        "name": "Sophie Castledine-Dack",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/66147/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232314/?format=json"
+                },
+                "num_ballots": 841,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81539/?format=json"
+            },
+            {
+                "id": 81542,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232317,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18402,
+                        "name": "Jeanette Martin Mallinder",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18402/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232317/?format=json"
+                },
+                "num_ballots": 799,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81542/?format=json"
+            },
+            {
+                "id": 81544,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232319,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18405,
+                        "name": "John Vjestica",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18405/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232319/?format=json"
+                },
+                "num_ballots": 738,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81544/?format=json"
+            },
+            {
+                "id": 81545,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232320,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82954,
+                        "name": "Gordon Watson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82954/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232320/?format=json"
+                },
+                "num_ballots": 712,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81545/?format=json"
+            },
+            {
+                "id": 81543,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232318,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18403,
+                        "name": "Dave Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18403/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232318/?format=json"
+                },
+                "num_ballots": 601,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81543/?format=json"
+            },
+            {
+                "id": 81541,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232316,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18401,
+                        "name": "Jean Hart",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18401/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232316/?format=json"
+                },
+                "num_ballots": 389,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81541/?format=json"
+            },
+            {
+                "id": 81537,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232312,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82952,
+                        "name": "Ian David Barkley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82952/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232312/?format=json"
+                },
+                "num_ballots": 316,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81537/?format=json"
+            },
+            {
+                "id": 81540,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232315,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18400,
+                        "name": "Wendy Hamilton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18400/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232315/?format=json"
+                },
+                "num_ballots": 308,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81540/?format=json"
+            },
+            {
+                "id": 81538,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232313,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82953,
+                        "name": "Phil Bowers",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82953/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:dinnington",
+                        "label": "Dinnington",
+                        "slug": "dinnington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/dinnington/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232313/?format=json"
+                },
+                "num_ballots": 284,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81538/?format=json"
+            }
+        ],
+        "id": 15981,
+        "num_spoilt_ballots": 33,
+        "num_turnout_reported": 2758,
+        "total_electorate": 9263,
+        "turnout_percentage": 29.77,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15981/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.greasbrough.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81555,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227940,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18633,
+                        "name": "Sarah Ann Allen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18633/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227940/?format=json"
+                },
+                "num_ballots": 526,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81555/?format=json"
+            },
+            {
+                "id": 81557,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213390,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18635,
+                        "name": "Robert Elliott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18635/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213390/?format=json"
+                },
+                "num_ballots": 518,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81557/?format=json"
+            },
+            {
+                "id": 81561,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227945,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18473,
+                        "name": "Josephine Margaret Taylor",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18473/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227945/?format=json"
+                },
+                "num_ballots": 430,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81561/?format=json"
+            },
+            {
+                "id": 81562,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227946,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81036,
+                        "name": "John Richard Henry Williams",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81036/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227946/?format=json"
+                },
+                "num_ballots": 385,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81562/?format=json"
+            },
+            {
+                "id": 81556,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227941,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18634,
+                        "name": "Keith Cooper",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18634/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227941/?format=json"
+                },
+                "num_ballots": 210,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81556/?format=json"
+            },
+            {
+                "id": 81559,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227943,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81034,
+                        "name": "Brian Leng",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81034/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227943/?format=json"
+                },
+                "num_ballots": 147,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81559/?format=json"
+            },
+            {
+                "id": 81560,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227944,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81035,
+                        "name": "Tony Mabbott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81035/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227944/?format=json"
+                },
+                "num_ballots": 74,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81560/?format=json"
+            },
+            {
+                "id": 81558,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227942,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81033,
+                        "name": "Tony Hannan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81033/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:greasbrough",
+                        "label": "Greasbrough",
+                        "slug": "greasbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/greasbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227942/?format=json"
+                },
+                "num_ballots": 68,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81558/?format=json"
+            }
+        ],
+        "id": 15984,
+        "num_spoilt_ballots": 12,
+        "num_turnout_reported": 1461,
+        "total_electorate": 6027,
+        "turnout_percentage": 24.24,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15984/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.hellaby-maltby-west.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81567,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213141,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18456,
+                        "name": "Simon Ashley Ball",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18456/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213141/?format=json"
+                },
+                "num_ballots": 1158,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81567/?format=json"
+            },
+            {
+                "id": 81566,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227756,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14016,
+                        "name": "Jenny Andrews",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14016/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227756/?format=json"
+                },
+                "num_ballots": 833,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81566/?format=json"
+            },
+            {
+                "id": 81568,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 215135,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74360,
+                        "name": "Davey Hamilton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74360/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/215135/?format=json"
+                },
+                "num_ballots": 798,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81568/?format=json"
+            },
+            {
+                "id": 81569,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227757,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 80937,
+                        "name": "Richard John Thomas Hunter",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/80937/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227757/?format=json"
+                },
+                "num_ballots": 558,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81569/?format=json"
+            },
+            {
+                "id": 81570,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227758,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 80938,
+                        "name": "Mark Bennett Scott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/80938/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227758/?format=json"
+                },
+                "num_ballots": 178,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81570/?format=json"
+            },
+            {
+                "id": 81571,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227759,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 80939,
+                        "name": "Frances Jane Taylor",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/80939/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227759/?format=json"
+                },
+                "num_ballots": 92,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81571/?format=json"
+            },
+            {
+                "id": 81572,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227760,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 80940,
+                        "name": "Craig Wathall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/80940/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hellaby-and-maltby-west",
+                        "label": "Hellaby & Maltby West",
+                        "slug": "hellaby-maltby-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hellaby-maltby-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227760/?format=json"
+                },
+                "num_ballots": 85,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81572/?format=json"
+            }
+        ],
+        "id": 15986,
+        "num_spoilt_ballots": 12,
+        "num_turnout_reported": 2092,
+        "total_electorate": 6321,
+        "turnout_percentage": 33.1,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15986/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.hoober.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81581,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222933,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18424,
+                        "name": "Denise Lelliott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18424/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222933/?format=json"
+                },
+                "num_ballots": 1084,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81581/?format=json"
+            },
+            {
+                "id": 81583,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222934,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18425,
+                        "name": "David John Roche",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18425/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222934/?format=json"
+                },
+                "num_ballots": 1008,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81583/?format=json"
+            },
+            {
+                "id": 81578,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213660,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 28071,
+                        "name": "Emily Barley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/28071/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213660/?format=json"
+                },
+                "num_ballots": 873,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81578/?format=json"
+            },
+            {
+                "id": 81587,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 233894,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18427,
+                        "name": "Brian Steele",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18427/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/233894/?format=json"
+                },
+                "num_ballots": 872,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81587/?format=json"
+            },
+            {
+                "id": 81582,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 215136,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74361,
+                        "name": "Martin Needham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74361/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/215136/?format=json"
+                },
+                "num_ballots": 784,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81582/?format=json"
+            },
+            {
+                "id": 81588,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 215134,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74359,
+                        "name": "Daniel Thompson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74359/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/215134/?format=json"
+                },
+                "num_ballots": 720,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81588/?format=json"
+            },
+            {
+                "id": 81580,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222932,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18445,
+                        "name": "Thomas Hill",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18445/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222932/?format=json"
+                },
+                "num_ballots": 254,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81580/?format=json"
+            },
+            {
+                "id": 81579,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222931,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78536,
+                        "name": "Sue Fletcher",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78536/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222931/?format=json"
+                },
+                "num_ballots": 231,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81579/?format=json"
+            },
+            {
+                "id": 81584,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222935,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78537,
+                        "name": "Amanda Sales-McHale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78537/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222935/?format=json"
+                },
+                "num_ballots": 198,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81584/?format=json"
+            },
+            {
+                "id": 81585,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222936,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78538,
+                        "name": "Pat Schwalbe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78538/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222936/?format=json"
+                },
+                "num_ballots": 140,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81585/?format=json"
+            },
+            {
+                "id": 81586,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 222937,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78539,
+                        "name": "Steve Scutt",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78539/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:hoober",
+                        "label": "Hoober",
+                        "slug": "hoober",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hoober/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/222937/?format=json"
+                },
+                "num_ballots": 137,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81586/?format=json"
+            }
+        ],
+        "id": 15988,
+        "num_spoilt_ballots": 25,
+        "num_turnout_reported": 2411,
+        "total_electorate": 9662,
+        "turnout_percentage": 24.95,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15988/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.keppel.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81590,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232334,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18441,
+                        "name": "Maggi Clark",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18441/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232334/?format=json"
+                },
+                "num_ballots": 1204,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81590/?format=json"
+            },
+            {
+                "id": 81589,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232333,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82964,
+                        "name": "Tony Browne",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82964/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232333/?format=json"
+                },
+                "num_ballots": 1117,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81589/?format=json"
+            },
+            {
+                "id": 81592,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213386,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18444,
+                        "name": "Paul Hague",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18444/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213386/?format=json"
+                },
+                "num_ballots": 993,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81592/?format=json"
+            },
+            {
+                "id": 81596,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 233854,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83678,
+                        "name": "Alan William Sherriff",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83678/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/233854/?format=json"
+                },
+                "num_ballots": 917,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81596/?format=json"
+            },
+            {
+                "id": 81591,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232335,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82965,
+                        "name": "Eddie Coates-Madden",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82965/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232335/?format=json"
+                },
+                "num_ballots": 754,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81591/?format=json"
+            },
+            {
+                "id": 81597,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213387,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73510,
+                        "name": "Lisa Silcock",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73510/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213387/?format=json"
+                },
+                "num_ballots": 681,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81597/?format=json"
+            },
+            {
+                "id": 81594,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213388,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18471,
+                        "name": "Sandra Marriott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18471/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213388/?format=json"
+                },
+                "num_ballots": 642,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81594/?format=json"
+            },
+            {
+                "id": 81593,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232336,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18447,
+                        "name": "Peter Robert Key",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18447/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232336/?format=json"
+                },
+                "num_ballots": 448,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81593/?format=json"
+            },
+            {
+                "id": 81595,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232337,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82966,
+                        "name": "Sam Reddington",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82966/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:keppel",
+                        "label": "Keppel",
+                        "slug": "keppel",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/keppel/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232337/?format=json"
+                },
+                "num_ballots": 264,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81595/?format=json"
+            }
+        ],
+        "id": 15989,
+        "num_spoilt_ballots": 42,
+        "num_turnout_reported": 2996,
+        "total_electorate": 10558,
+        "turnout_percentage": 28.38,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15989/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.kilnhurst-swinton-east.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81607,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232348,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18558,
+                        "name": "Victoria Cusworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18558/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232348/?format=json"
+                },
+                "num_ballots": 1119,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81607/?format=json"
+            },
+            {
+                "id": 81609,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232350,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18560,
+                        "name": "Stuart James Sansome",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18560/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232350/?format=json"
+                },
+                "num_ballots": 989,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81609/?format=json"
+            },
+            {
+                "id": 81608,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232349,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18517,
+                        "name": "Denise Helen Hall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18517/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232349/?format=json"
+                },
+                "num_ballots": 597,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81608/?format=json"
+            },
+            {
+                "id": 81605,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232346,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82970,
+                        "name": "Luke Anthony Binney",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82970/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232346/?format=json"
+                },
+                "num_ballots": 126,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81605/?format=json"
+            },
+            {
+                "id": 81606,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232347,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82971,
+                        "name": "Karly Buffon",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82971/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232347/?format=json"
+                },
+                "num_ballots": 103,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81606/?format=json"
+            },
+            {
+                "id": 81610,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232351,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82972,
+                        "name": "David Taylor",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82972/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:kilnhurst-and-swinton-east",
+                        "label": "Kilnhurst & Swinton East",
+                        "slug": "kilnhurst-swinton-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/kilnhurst-swinton-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232351/?format=json"
+                },
+                "num_ballots": 84,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81610/?format=json"
+            }
+        ],
+        "id": 15991,
+        "num_spoilt_ballots": 32,
+        "num_turnout_reported": 1876,
+        "total_electorate": 6291,
+        "turnout_percentage": 29.82,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15991/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.maltby-east.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81625,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212908,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73274,
+                        "name": "Adam Tinsley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73274/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212908/?format=json"
+                },
+                "num_ballots": 648,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81625/?format=json"
+            },
+            {
+                "id": 81621,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212909,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 6739,
+                        "name": "Lee Hunter",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/6739/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212909/?format=json"
+                },
+                "num_ballots": 630,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81621/?format=json"
+            },
+            {
+                "id": 81619,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232357,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82976,
+                        "name": "Diann Bernadette Fitzgibbons",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82976/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232357/?format=json"
+                },
+                "num_ballots": 549,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81619/?format=json"
+            },
+            {
+                "id": 81618,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232356,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18458,
+                        "name": "Shaz Biggin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18458/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232356/?format=json"
+                },
+                "num_ballots": 510,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81618/?format=json"
+            },
+            {
+                "id": 81622,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232359,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14020,
+                        "name": "Janet Law",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14020/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232359/?format=json"
+                },
+                "num_ballots": 393,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81622/?format=json"
+            },
+            {
+                "id": 81624,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232360,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82978,
+                        "name": "Brett Harrison Meese",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82978/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232360/?format=json"
+                },
+                "num_ballots": 115,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81624/?format=json"
+            },
+            {
+                "id": 81623,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232361,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82979,
+                        "name": "Harrison James Meese",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82979/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232361/?format=json"
+                },
+                "num_ballots": 73,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81623/?format=json"
+            },
+            {
+                "id": 81620,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232358,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82977,
+                        "name": "Darren Hallam-Wall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82977/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:maltby-east",
+                        "label": "Maltby East",
+                        "slug": "maltby-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/maltby-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232358/?format=json"
+                },
+                "num_ballots": 43,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81620/?format=json"
+            }
+        ],
+        "id": 15994,
+        "num_spoilt_ballots": 14,
+        "num_turnout_reported": 1717,
+        "total_electorate": 6668,
+        "turnout_percentage": 25.75,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15994/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.rawmarsh-east.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81634,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232376,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82985,
+                        "name": "Dave Sheppard",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82985/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232376/?format=json"
+                },
+                "num_ballots": 703,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81634/?format=json"
+            },
+            {
+                "id": 81631,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232373,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82983,
+                        "name": "Rachel Elizabeth Margaret Hughes",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82983/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232373/?format=json"
+                },
+                "num_ballots": 604,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81631/?format=json"
+            },
+            {
+                "id": 81632,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232374,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18493,
+                        "name": "William Salt",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18493/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232374/?format=json"
+                },
+                "num_ballots": 458,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81632/?format=json"
+            },
+            {
+                "id": 81630,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232372,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82982,
+                        "name": "Ben Wayne Eyre",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82982/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232372/?format=json"
+                },
+                "num_ballots": 280,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81630/?format=json"
+            },
+            {
+                "id": 81633,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232375,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82984,
+                        "name": "Sophie Louise Shaw",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82984/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232375/?format=json"
+                },
+                "num_ballots": 138,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81633/?format=json"
+            },
+            {
+                "id": 81635,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232377,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82986,
+                        "name": "Margaret Eileen Towler",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82986/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-east",
+                        "label": "Rawmarsh East",
+                        "slug": "rawmarsh-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232377/?format=json"
+                },
+                "num_ballots": 115,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81635/?format=json"
+            }
+        ],
+        "id": 15996,
+        "num_spoilt_ballots": 14,
+        "num_turnout_reported": 1476,
+        "total_electorate": 6891,
+        "turnout_percentage": 21.42,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15996/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.rawmarsh-west.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81641,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232384,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18470,
+                        "name": "Bob Bird",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18470/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232384/?format=json"
+                },
+                "num_ballots": 724,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81641/?format=json"
+            },
+            {
+                "id": 81646,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232388,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82992,
+                        "name": "Jill Thompson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82992/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232388/?format=json"
+                },
+                "num_ballots": 583,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81646/?format=json"
+            },
+            {
+                "id": 81643,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232386,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82990,
+                        "name": "Beth Marles",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82990/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232386/?format=json"
+                },
+                "num_ballots": 522,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81643/?format=json"
+            },
+            {
+                "id": 81645,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232387,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82991,
+                        "name": "Thomas Sawford",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82991/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232387/?format=json"
+                },
+                "num_ballots": 218,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81645/?format=json"
+            },
+            {
+                "id": 81640,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232383,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82988,
+                        "name": "Sean Anthony Ardron",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82988/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232383/?format=json"
+                },
+                "num_ballots": 209,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81640/?format=json"
+            },
+            {
+                "id": 81642,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232385,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82989,
+                        "name": "James John Cleary",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82989/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232385/?format=json"
+                },
+                "num_ballots": 174,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81642/?format=json"
+            },
+            {
+                "id": 81639,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232382,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82987,
+                        "name": "Phil Aisthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82987/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232382/?format=json"
+                },
+                "num_ballots": 124,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81639/?format=json"
+            },
+            {
+                "id": 81644,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213938,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73743,
+                        "name": "Will Price",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73743/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rawmarsh-west",
+                        "label": "Rawmarsh West",
+                        "slug": "rawmarsh-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rawmarsh-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213938/?format=json"
+                },
+                "num_ballots": 38,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81644/?format=json"
+            }
+        ],
+        "id": 15998,
+        "num_spoilt_ballots": 26,
+        "num_turnout_reported": 1612,
+        "total_electorate": 6850,
+        "turnout_percentage": 23.53,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15998/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.rother-vale.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81650,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232262,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82918,
+                        "name": "Firas Miro",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82918/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232262/?format=json"
+                },
+                "num_ballots": 551,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81650/?format=json"
+            },
+            {
+                "id": 81648,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232260,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18489,
+                        "name": "Amy Caroline Brookes",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18489/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232260/?format=json"
+                },
+                "num_ballots": 491,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81648/?format=json"
+            },
+            {
+                "id": 81656,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232268,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82923,
+                        "name": "David Edward Wilson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82923/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232268/?format=json"
+                },
+                "num_ballots": 418,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81656/?format=json"
+            },
+            {
+                "id": 81655,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232267,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18494,
+                        "name": "Bob Walsh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18494/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232267/?format=json"
+                },
+                "num_ballots": 411,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81655/?format=json"
+            },
+            {
+                "id": 81651,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232263,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82919,
+                        "name": "William Guy David Morgan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82919/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232263/?format=json"
+                },
+                "num_ballots": 326,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81651/?format=json"
+            },
+            {
+                "id": 81652,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232264,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82920,
+                        "name": "Natalie Thomas Stafford",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82920/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232264/?format=json"
+                },
+                "num_ballots": 299,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81652/?format=json"
+            },
+            {
+                "id": 81649,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232261,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82917,
+                        "name": "David Haythorne",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82917/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232261/?format=json"
+                },
+                "num_ballots": 88,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81649/?format=json"
+            },
+            {
+                "id": 81647,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232259,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18439,
+                        "name": "Neil Adshead",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18439/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232259/?format=json"
+                },
+                "num_ballots": 58,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81647/?format=json"
+            },
+            {
+                "id": 81653,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232265,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82921,
+                        "name": "Carlie Louise Stanley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82921/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232265/?format=json"
+                },
+                "num_ballots": 37,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81653/?format=json"
+            },
+            {
+                "id": 81654,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232266,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82922,
+                        "name": "John Walker",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82922/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rother-vale",
+                        "label": "Rother Vale",
+                        "slug": "rother-vale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rother-vale/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232266/?format=json"
+                },
+                "num_ballots": 17,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81654/?format=json"
+            }
+        ],
+        "id": 15999,
+        "num_spoilt_ballots": 10,
+        "num_turnout_reported": 1456,
+        "total_electorate": 6057,
+        "turnout_percentage": 24.04,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15999/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.rotherham-east.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81657,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229820,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14863,
+                        "name": "Wendy Cooksey",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14863/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229820/?format=json"
+                },
+                "num_ballots": 1366,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81657/?format=json"
+            },
+            {
+                "id": 81660,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229823,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14866,
+                        "name": "Tajamal Khan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14866/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229823/?format=json"
+                },
+                "num_ballots": 1097,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81660/?format=json"
+            },
+            {
+                "id": 81658,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229821,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81883,
+                        "name": "Rukhsana Bibi Haleem",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81883/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229821/?format=json"
+                },
+                "num_ballots": 1024,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81658/?format=json"
+            },
+            {
+                "id": 81662,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229825,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18637,
+                        "name": "Barrie Marsh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18637/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229825/?format=json"
+                },
+                "num_ballots": 641,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81662/?format=json"
+            },
+            {
+                "id": 81664,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229827,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14868,
+                        "name": "Richard William Penycate",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14868/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229827/?format=json"
+                },
+                "num_ballots": 457,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81664/?format=json"
+            },
+            {
+                "id": 81665,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229828,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18575,
+                        "name": "Kath Reeder",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18575/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229828/?format=json"
+                },
+                "num_ballots": 354,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81665/?format=json"
+            },
+            {
+                "id": 81661,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229824,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81885,
+                        "name": "Sheila Marriott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81885/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229824/?format=json"
+                },
+                "num_ballots": 296,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81661/?format=json"
+            },
+            {
+                "id": 81659,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229822,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81884,
+                        "name": "Cheryl Lynn Jones",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81884/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229822/?format=json"
+                },
+                "num_ballots": 284,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81659/?format=json"
+            },
+            {
+                "id": 81663,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229826,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81886,
+                        "name": "Harry David Mckenzie",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81886/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-east",
+                        "label": "Rotherham East",
+                        "slug": "rotherham-east",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-east/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229826/?format=json"
+                },
+                "num_ballots": 269,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81663/?format=json"
+            }
+        ],
+        "id": 16000,
+        "num_spoilt_ballots": 42,
+        "num_turnout_reported": 2512,
+        "total_electorate": 10409,
+        "turnout_percentage": 24.13,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16000/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.rotherham-west.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81671,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232409,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14832,
+                        "name": "Ian Paul Jones",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14832/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232409/?format=json"
+                },
+                "num_ballots": 1246,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81671/?format=json"
+            },
+            {
+                "id": 81667,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232405,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82998,
+                        "name": "Ben Aveyard",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82998/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232405/?format=json"
+                },
+                "num_ballots": 1136,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81667/?format=json"
+            },
+            {
+                "id": 81672,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232410,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14833,
+                        "name": "Eve Rose Keenan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14833/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232410/?format=json"
+                },
+                "num_ballots": 1012,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81672/?format=json"
+            },
+            {
+                "id": 81670,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232408,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83000,
+                        "name": "Carole Anne Foster",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83000/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232408/?format=json"
+                },
+                "num_ballots": 1004,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81670/?format=json"
+            },
+            {
+                "id": 81669,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232407,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18571,
+                        "name": "Simon Currie",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18571/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232407/?format=json"
+                },
+                "num_ballots": 795,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81669/?format=json"
+            },
+            {
+                "id": 81675,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232413,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83003,
+                        "name": "Roger Wainwright",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83003/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232413/?format=json"
+                },
+                "num_ballots": 769,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81675/?format=json"
+            },
+            {
+                "id": 81668,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232406,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82999,
+                        "name": "Kelly Marie Bramley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82999/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232406/?format=json"
+                },
+                "num_ballots": 673,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81668/?format=json"
+            },
+            {
+                "id": 81673,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232411,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18366,
+                        "name": "Ruth Pauline Marsh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18366/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232411/?format=json"
+                },
+                "num_ballots": 619,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81673/?format=json"
+            },
+            {
+                "id": 81666,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 216266,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74995,
+                        "name": "Ishtiaq Ahmad",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74995/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/216266/?format=json"
+                },
+                "num_ballots": 248,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81666/?format=json"
+            },
+            {
+                "id": 81674,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232412,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83002,
+                        "name": "Julie Elizabeth Read",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83002/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:rotherham-west",
+                        "label": "Rotherham West",
+                        "slug": "rotherham-west",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rotherham-west/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232412/?format=json"
+                },
+                "num_ballots": 195,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81674/?format=json"
+            }
+        ],
+        "id": 16001,
+        "num_spoilt_ballots": 42,
+        "num_turnout_reported": 3155,
+        "total_electorate": 10058,
+        "turnout_percentage": 31.37,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16001/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.sitwell.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81678,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232436,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83014,
+                        "name": "Simon Lee Burnett",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83014/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232436/?format=json"
+                },
+                "num_ballots": 1471,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81678/?format=json"
+            },
+            {
+                "id": 81681,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232439,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83016,
+                        "name": "David Frank Fisher",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83016/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232439/?format=json"
+                },
+                "num_ballots": 1425,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81681/?format=json"
+            },
+            {
+                "id": 81682,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232440,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83017,
+                        "name": "Tony Griffin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83017/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232440/?format=json"
+                },
+                "num_ballots": 1071,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81682/?format=json"
+            },
+            {
+                "id": 81676,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232434,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18534,
+                        "name": "Mick Bower",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18534/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232434/?format=json"
+                },
+                "num_ballots": 1054,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81676/?format=json"
+            },
+            {
+                "id": 81686,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212911,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73276,
+                        "name": "Mohammed Osman Suleman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73276/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212911/?format=json"
+                },
+                "num_ballots": 1045,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81686/?format=json"
+            },
+            {
+                "id": 81677,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232435,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83013,
+                        "name": "Barbara Carol Brookes",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83013/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232435/?format=json"
+                },
+                "num_ballots": 967,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81677/?format=json"
+            },
+            {
+                "id": 81683,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232441,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18574,
+                        "name": "Haroon Rashid",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18574/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232441/?format=json"
+                },
+                "num_ballots": 941,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81683/?format=json"
+            },
+            {
+                "id": 81680,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232438,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 5201,
+                        "name": "Allen Cowles",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/5201/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232438/?format=json"
+                },
+                "num_ballots": 746,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81680/?format=json"
+            },
+            {
+                "id": 81687,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232444,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83020,
+                        "name": "Colin David Taylor",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83020/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232444/?format=json"
+                },
+                "num_ballots": 476,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81687/?format=json"
+            },
+            {
+                "id": 81679,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232437,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83015,
+                        "name": "Tanya Veronica Cleary",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83015/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232437/?format=json"
+                },
+                "num_ballots": 453,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81679/?format=json"
+            },
+            {
+                "id": 81685,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232443,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83019,
+                        "name": "Peter Gerard John Short",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83019/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232443/?format=json"
+                },
+                "num_ballots": 372,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81685/?format=json"
+            },
+            {
+                "id": 81684,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232442,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83018,
+                        "name": "Gavin Peter Shawcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83018/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:sitwell",
+                        "label": "Sitwell",
+                        "slug": "sitwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sitwell/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232442/?format=json"
+                },
+                "num_ballots": 364,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81684/?format=json"
+            }
+        ],
+        "id": 16002,
+        "num_spoilt_ballots": 48,
+        "num_turnout_reported": 4041,
+        "total_electorate": 9886,
+        "turnout_percentage": 40.88,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16002/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.swinton-rockingham.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81694,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232449,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18561,
+                        "name": "Ken Wyatt",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18561/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232449/?format=json"
+                },
+                "num_ballots": 1118,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81694/?format=json"
+            },
+            {
+                "id": 81693,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232448,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83024,
+                        "name": "Gina Monk",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83024/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232448/?format=json"
+                },
+                "num_ballots": 1009,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81693/?format=json"
+            },
+            {
+                "id": 81690,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212910,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73275,
+                        "name": "Patricia Collins",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73275/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212910/?format=json"
+                },
+                "num_ballots": 596,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81690/?format=json"
+            },
+            {
+                "id": 81692,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232447,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83023,
+                        "name": "Kay Lesley Hollis",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83023/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232447/?format=json"
+                },
+                "num_ballots": 117,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81692/?format=json"
+            },
+            {
+                "id": 81689,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 213939,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73744,
+                        "name": "Chris Bingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73744/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/213939/?format=json"
+                },
+                "num_ballots": 115,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81689/?format=json"
+            },
+            {
+                "id": 81688,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232445,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83021,
+                        "name": "Duran Rowen Bath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83021/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232445/?format=json"
+                },
+                "num_ballots": 59,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81688/?format=json"
+            },
+            {
+                "id": 81691,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232446,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83022,
+                        "name": "Toni Garnett",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83022/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:swinton-rockingham",
+                        "label": "Swinton Rockingham",
+                        "slug": "swinton-rockingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/swinton-rockingham/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232446/?format=json"
+                },
+                "num_ballots": 50,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81691/?format=json"
+            }
+        ],
+        "id": 16003,
+        "num_spoilt_ballots": 16,
+        "num_turnout_reported": 1845,
+        "total_electorate": 6259,
+        "turnout_percentage": 29.48,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16003/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.thurcroft-wickersley-south.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81699,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214020,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73791,
+                        "name": "Thomas Singleton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73791/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214020/?format=json"
+                },
+                "num_ballots": 1125,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81699/?format=json"
+            },
+            {
+                "id": 81696,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214847,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74191,
+                        "name": "Zachary Collingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74191/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214847/?format=json"
+                },
+                "num_ballots": 1116,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81696/?format=json"
+            },
+            {
+                "id": 81698,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 230856,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82316,
+                        "name": "James Jonathon Mault",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82316/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/230856/?format=json"
+                },
+                "num_ballots": 634,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81698/?format=json"
+            },
+            {
+                "id": 81695,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 230854,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82314,
+                        "name": "Angham Saleh Taher Ahmed",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82314/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/230854/?format=json"
+                },
+                "num_ballots": 540,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81695/?format=json"
+            },
+            {
+                "id": 81701,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 230858,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14022,
+                        "name": "John Turner",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14022/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/230858/?format=json"
+                },
+                "num_ballots": 510,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81701/?format=json"
+            },
+            {
+                "id": 81697,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 230855,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 14017,
+                        "name": "Brian Cutts",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/14017/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/230855/?format=json"
+                },
+                "num_ballots": 450,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81697/?format=json"
+            },
+            {
+                "id": 81700,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 230857,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82317,
+                        "name": "Pat Tarmey",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82317/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:thurcroft-and-wickersley-south",
+                        "label": "Thurcroft & Wickersley South",
+                        "slug": "thurcroft-wickersley-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thurcroft-wickersley-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/230857/?format=json"
+                },
+                "num_ballots": 131,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81700/?format=json"
+            }
+        ],
+        "id": 16004,
+        "num_spoilt_ballots": 16,
+        "num_turnout_reported": 2459,
+        "total_electorate": 7524,
+        "turnout_percentage": 32.68,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16004/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.wales.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81702,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232459,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18595,
+                        "name": "Dominic Edward Beck",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18595/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232459/?format=json"
+                },
+                "num_ballots": 1190,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81702/?format=json"
+            },
+            {
+                "id": 81704,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232461,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83027,
+                        "name": "Marnie Anne Havard",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83027/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232461/?format=json"
+                },
+                "num_ballots": 835,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81704/?format=json"
+            },
+            {
+                "id": 81706,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214625,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74072,
+                        "name": "Barbara Morris",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74072/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214625/?format=json"
+                },
+                "num_ballots": 793,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81706/?format=json"
+            },
+            {
+                "id": 81707,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212907,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73273,
+                        "name": "Gary Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73273/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212907/?format=json"
+                },
+                "num_ballots": 786,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81707/?format=json"
+            },
+            {
+                "id": 81705,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232462,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18598,
+                        "name": "Paul Martin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18598/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232462/?format=json"
+                },
+                "num_ballots": 432,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81705/?format=json"
+            },
+            {
+                "id": 81709,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232465,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83030,
+                        "name": "Emily Rose West",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83030/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232465/?format=json"
+                },
+                "num_ballots": 241,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81709/?format=json"
+            },
+            {
+                "id": 81708,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232464,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83029,
+                        "name": "Steve Webster",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83029/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232464/?format=json"
+                },
+                "num_ballots": 125,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81708/?format=json"
+            },
+            {
+                "id": 81703,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 232460,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 83026,
+                        "name": "Oliver Tatton Boddye",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/83026/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wales",
+                        "label": "Wales",
+                        "slug": "wales",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wales/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/232460/?format=json"
+                },
+                "num_ballots": 81,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81703/?format=json"
+            }
+        ],
+        "id": 16005,
+        "num_spoilt_ballots": 26,
+        "num_turnout_reported": 2447,
+        "total_electorate": 7187,
+        "turnout_percentage": 34.05,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16005/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.wath.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81710,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228832,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18609,
+                        "name": "Alan Atkin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18609/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228832/?format=json"
+                },
+                "num_ballots": 882,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81710/?format=json"
+            },
+            {
+                "id": 81712,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228834,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81453,
+                        "name": "Sheila Anne Cowen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81453/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228834/?format=json"
+                },
+                "num_ballots": 804,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81712/?format=json"
+            },
+            {
+                "id": 81711,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228833,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18422,
+                        "name": "Tyrrell Jane Bingham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18422/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228833/?format=json"
+                },
+                "num_ballots": 490,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81711/?format=json"
+            },
+            {
+                "id": 81714,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228836,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81455,
+                        "name": "Micky Newman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81455/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228836/?format=json"
+                },
+                "num_ballots": 261,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81714/?format=json"
+            },
+            {
+                "id": 81713,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228835,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81454,
+                        "name": "Ingrid Mary Frances House",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81454/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228835/?format=json"
+                },
+                "num_ballots": 176,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81713/?format=json"
+            },
+            {
+                "id": 81715,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 228837,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81456,
+                        "name": "Wayne Anthony Roger Pike",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81456/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wath",
+                        "label": "Wath",
+                        "slug": "wath",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wath/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/228837/?format=json"
+                },
+                "num_ballots": 110,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81715/?format=json"
+            }
+        ],
+        "id": 16006,
+        "num_spoilt_ballots": 26,
+        "num_turnout_reported": 1711,
+        "total_electorate": 6734,
+        "turnout_percentage": 25.41,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16006/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.rotherham.wickersley-north.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 81716,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229527,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18624,
+                        "name": "Sue Ellis",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18624/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229527/?format=json"
+                },
+                "num_ballots": 1466,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81716/?format=json"
+            },
+            {
+                "id": 81720,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229545,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18628,
+                        "name": "Emma Hoddinott",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18628/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229545/?format=json"
+                },
+                "num_ballots": 1337,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81720/?format=json"
+            },
+            {
+                "id": 81722,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229533,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18629,
+                        "name": "Chris Read",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18629/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229533/?format=json"
+                },
+                "num_ballots": 1295,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81722/?format=json"
+            },
+            {
+                "id": 81721,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229532,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 5278,
+                        "name": "Martyn Lawton Parker",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/5278/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229532/?format=json"
+                },
+                "num_ballots": 1042,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81721/?format=json"
+            },
+            {
+                "id": 81717,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229528,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81749,
+                        "name": "Rob Felstead",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81749/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229528/?format=json"
+                },
+                "num_ballots": 726,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81717/?format=json"
+            },
+            {
+                "id": 81724,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229535,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81753,
+                        "name": "Mohamed Suleman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81753/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229535/?format=json"
+                },
+                "num_ballots": 547,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81724/?format=json"
+            },
+            {
+                "id": 81718,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229529,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81750,
+                        "name": "Tracy Louise Green",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81750/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229529/?format=json"
+                },
+                "num_ballots": 486,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81718/?format=json"
+            },
+            {
+                "id": 81719,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229530,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:11473",
+                        "name": "Rotherham Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 18627,
+                        "name": "Leslie James Hince",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/18627/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229530/?format=json"
+                },
+                "num_ballots": 361,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81719/?format=json"
+            },
+            {
+                "id": 81723,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.rotherham.2021-05-06",
+                        "name": "Rotherham local election",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.rotherham.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229534,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81752,
+                        "name": "Linda Read",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81752/?format=json"
+                    },
+                    "post": {
+                        "id": "ROT:wickersley-north",
+                        "label": "Wickersley North",
+                        "slug": "wickersley-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wickersley-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229534/?format=json"
+                },
+                "num_ballots": 281,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/81723/?format=json"
+            }
+        ],
+        "id": 16007,
+        "num_spoilt_ballots": 51,
+        "num_turnout_reported": 3041,
+        "total_electorate": 9427,
+        "turnout_percentage": 32.26,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16007/?format=json",
+        "user": "jwheare",
+        "user_id": 5610
+    },
+    {
+        "ballot_paper_id": "local.doncaster.adwick-le-street-carcroft.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 77795,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212363,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73093,
+                        "name": "Sarah Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73093/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212363/?format=json"
+                },
+                "num_ballots": 1467,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77795/?format=json"
+            },
+            {
+                "id": 77790,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227901,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81017,
+                        "name": "Debbie Hutchinson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81017/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227901/?format=json"
+                },
+                "num_ballots": 1457,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77790/?format=json"
+            },
+            {
+                "id": 77792,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218571,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23052,
+                        "name": "John Mounsey",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23052/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218571/?format=json"
+                },
+                "num_ballots": 1379,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77792/?format=json"
+            },
+            {
+                "id": 77794,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227904,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81020,
+                        "name": "Peter John Ransome",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81020/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227904/?format=json"
+                },
+                "num_ballots": 586,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77794/?format=json"
+            },
+            {
+                "id": 77789,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227900,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81016,
+                        "name": "David Bluff",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81016/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227900/?format=json"
+                },
+                "num_ballots": 532,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77789/?format=json"
+            },
+            {
+                "id": 77791,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227902,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81018,
+                        "name": "Kevin Kerrigan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81018/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227902/?format=json"
+                },
+                "num_ballots": 472,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77791/?format=json"
+            },
+            {
+                "id": 77793,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227903,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81019,
+                        "name": "Vanessa Aradia Myatt",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81019/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010728",
+                        "label": "Adwick le Street & Carcroft",
+                        "slug": "adwick-le-street-carcroft",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/adwick-le-street-carcroft/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227903/?format=json"
+                },
+                "num_ballots": 304,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77793/?format=json"
+            }
+        ],
+        "id": 15272,
+        "num_spoilt_ballots": 13,
+        "num_turnout_reported": null,
+        "total_electorate": 11820,
+        "turnout_percentage": 22.98,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15272/?format=json",
+        "user": "theobiddle",
+        "user_id": 7226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.armthorpe.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 77797,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219020,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76403,
+                        "name": "Aimee Louise Dickson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76403/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219020/?format=json"
+                },
+                "num_ballots": 1306,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77797/?format=json"
+            },
+            {
+                "id": 77801,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219024,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76405,
+                        "name": "Tim Needham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76405/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219024/?format=json"
+                },
+                "num_ballots": 1219,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77801/?format=json"
+            },
+            {
+                "id": 77799,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219022,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76404,
+                        "name": "Sue Knowles",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76404/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219022/?format=json"
+                },
+                "num_ballots": 1216,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77799/?format=json"
+            },
+            {
+                "id": 77796,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219019,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23066,
+                        "name": "Margaret Beard",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23066/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219019/?format=json"
+                },
+                "num_ballots": 1026,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77796/?format=json"
+            },
+            {
+                "id": 77800,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219023,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23235,
+                        "name": "Ann Nadin Martin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23235/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219023/?format=json"
+                },
+                "num_ballots": 878,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77800/?format=json"
+            },
+            {
+                "id": 77798,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219021,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23069,
+                        "name": "Mark Gray",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23069/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219021/?format=json"
+                },
+                "num_ballots": 507,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77798/?format=json"
+            },
+            {
+                "id": 77802,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219025,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76406,
+                        "name": "Janet Sanderson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76406/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010729",
+                        "label": "Armthorpe",
+                        "slug": "armthorpe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/armthorpe/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219025/?format=json"
+                },
+                "num_ballots": 427,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77802/?format=json"
+            }
+        ],
+        "id": 15273,
+        "num_spoilt_ballots": 17,
+        "num_turnout_reported": null,
+        "total_electorate": 10949,
+        "turnout_percentage": 26.01,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15273/?format=json",
+        "user": "theobiddle",
+        "user_id": 7226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.balby-south.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 77805,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218573,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23084,
+                        "name": "John Patrick Joseph Healy",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23084/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010730",
+                        "label": "Balby South",
+                        "slug": "balby-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/balby-south/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218573/?format=json"
+                },
+                "num_ballots": 895,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77805/?format=json"
+            },
+            {
+                "id": 77806,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227882,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81009,
+                        "name": "Tracey Ann Moran",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81009/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010730",
+                        "label": "Balby South",
+                        "slug": "balby-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/balby-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227882/?format=json"
+                },
+                "num_ballots": 811,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77806/?format=json"
+            },
+            {
+                "id": 77804,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227881,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81008,
+                        "name": "Susan Davies",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81008/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010730",
+                        "label": "Balby South",
+                        "slug": "balby-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/balby-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227881/?format=json"
+                },
+                "num_ballots": 693,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77804/?format=json"
+            },
+            {
+                "id": 77807,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218572,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23086,
+                        "name": "John Thomas Papworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23086/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010730",
+                        "label": "Balby South",
+                        "slug": "balby-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/balby-south/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218572/?format=json"
+                },
+                "num_ballots": 431,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77807/?format=json"
+            },
+            {
+                "id": 77803,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 227880,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81007,
+                        "name": "Lynette Chipp",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81007/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010730",
+                        "label": "Balby South",
+                        "slug": "balby-south",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/balby-south/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/227880/?format=json"
+                },
+                "num_ballots": 228,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/77803/?format=json"
+            }
+        ],
+        "id": 15274,
+        "num_spoilt_ballots": 10,
+        "num_turnout_reported": null,
+        "total_electorate": 7179,
+        "turnout_percentage": 26.63,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15274/?format=json",
+        "user": "theobiddle",
+        "user_id": 7226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.tickhill-wadsworth.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78012,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231323,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31050,
+                        "name": "Nigel John Cannings",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31050/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231323/?format=json"
+                },
+                "num_ballots": 2032,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78012/?format=json"
+            },
+            {
+                "id": 78015,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231325,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 19468,
+                        "name": "Martin Damian Greenhalgh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/19468/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231325/?format=json"
+                },
+                "num_ballots": 1332,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78015/?format=json"
+            },
+            {
+                "id": 78013,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231324,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82518,
+                        "name": "Phylis Cowden",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82518/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231324/?format=json"
+                },
+                "num_ballots": 740,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78013/?format=json"
+            },
+            {
+                "id": 78017,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231328,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82520,
+                        "name": "Louis Joseph Jackson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82520/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231328/?format=json"
+                },
+                "num_ballots": 633,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78017/?format=json"
+            },
+            {
+                "id": 78018,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231329,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31055,
+                        "name": "Ian Michael Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31055/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231329/?format=json"
+                },
+                "num_ballots": 277,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78018/?format=json"
+            },
+            {
+                "id": 78016,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231326,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82519,
+                        "name": "Helen Hopkins",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82519/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231326/?format=json"
+                },
+                "num_ballots": 253,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78016/?format=json"
+            },
+            {
+                "id": 78014,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231327,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31052,
+                        "name": "Kay Goddard",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31052/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010746",
+                        "label": "Tickhill & Wadsworth",
+                        "slug": "tickhill-wadsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/tickhill-wadsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231327/?format=json"
+                },
+                "num_ballots": 226,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78014/?format=json"
+            }
+        ],
+        "id": 15313,
+        "num_spoilt_ballots": 15,
+        "num_turnout_reported": null,
+        "total_electorate": 8836,
+        "turnout_percentage": 35.6,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15313/?format=json",
+        "user": "theobiddle",
+        "user_id": 7226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.mexborough.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78077,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218590,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2287",
+                        "name": "Mexborough First"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23239,
+                        "name": "Sean Michael Gibbons",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23239/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218590/?format=json"
+                },
+                "num_ballots": 1673,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78077/?format=json"
+            },
+            {
+                "id": 78074,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218591,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2287",
+                        "name": "Mexborough First"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23237,
+                        "name": "Bev Chapman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23237/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218591/?format=json"
+                },
+                "num_ballots": 1639,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78074/?format=json"
+            },
+            {
+                "id": 78081,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218592,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2287",
+                        "name": "Mexborough First"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23242,
+                        "name": "Andy Pickering",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23242/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218592/?format=json"
+                },
+                "num_ballots": 1611,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78081/?format=json"
+            },
+            {
+                "id": 78076,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219413,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76626,
+                        "name": "Malcolm Gamble",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76626/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219413/?format=json"
+                },
+                "num_ballots": 797,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78076/?format=json"
+            },
+            {
+                "id": 78083,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219418,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76631,
+                        "name": "Tony Rawlings",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76631/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219418/?format=json"
+                },
+                "num_ballots": 426,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78083/?format=json"
+            },
+            {
+                "id": 78080,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219416,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76629,
+                        "name": "Mick Muddiman",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76629/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219416/?format=json"
+                },
+                "num_ballots": 418,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78080/?format=json"
+            },
+            {
+                "id": 78075,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219412,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76625,
+                        "name": "Rory Francis Wood Forester",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76625/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219412/?format=json"
+                },
+                "num_ballots": 197,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78075/?format=json"
+            },
+            {
+                "id": 78079,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219415,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76628,
+                        "name": "Teresa Mary Robson Glynn",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76628/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219415/?format=json"
+                },
+                "num_ballots": 191,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78079/?format=json"
+            },
+            {
+                "id": 78082,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219417,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76630,
+                        "name": "Colin Matthew Pinder",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76630/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219417/?format=json"
+                },
+                "num_ballots": 188,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78082/?format=json"
+            },
+            {
+                "id": 78078,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219414,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76627,
+                        "name": "Ann Jackson Gilbert",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76627/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010739",
+                        "label": "Mexborough",
+                        "slug": "mexborough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/mexborough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219414/?format=json"
+                },
+                "num_ballots": 110,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78078/?format=json"
+            }
+        ],
+        "id": 15328,
+        "num_spoilt_ballots": null,
+        "num_turnout_reported": null,
+        "total_electorate": null,
+        "turnout_percentage": null,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15328/?format=json",
+        "user": "theobiddle",
+        "user_id": 7226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.bentley.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78200,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231230,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82475,
+                        "name": "James Vernon Church",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82475/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231230/?format=json"
+                },
+                "num_ballots": 1461,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78200/?format=json"
+            },
+            {
+                "id": 78204,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218574,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23137,
+                        "name": "Charlie Hogarth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23137/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218574/?format=json"
+                },
+                "num_ballots": 1372,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78204/?format=json"
+            },
+            {
+                "id": 78208,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218575,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23141,
+                        "name": "Jane Nightingale",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23141/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218575/?format=json"
+                },
+                "num_ballots": 1265,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78208/?format=json"
+            },
+            {
+                "id": 78202,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231232,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23136,
+                        "name": "Louise Margaret Emery",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23136/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231232/?format=json"
+                },
+                "num_ballots": 744,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78202/?format=json"
+            },
+            {
+                "id": 78201,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231231,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82476,
+                        "name": "Peter Anthony Ellison",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82476/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231231/?format=json"
+                },
+                "num_ballots": 741,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78201/?format=json"
+            },
+            {
+                "id": 78203,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231233,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82478,
+                        "name": "Dave Glover",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82478/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231233/?format=json"
+                },
+                "num_ballots": 713,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78203/?format=json"
+            },
+            {
+                "id": 78205,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231234,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23138,
+                        "name": "Dawn Longley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23138/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231234/?format=json"
+                },
+                "num_ballots": 454,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78205/?format=json"
+            },
+            {
+                "id": 78207,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231236,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82480,
+                        "name": "Michelle Elise Newton-Carline",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82480/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231236/?format=json"
+                },
+                "num_ballots": 291,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78207/?format=json"
+            },
+            {
+                "id": 78206,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231235,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82479,
+                        "name": "Scott Middleton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82479/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010731",
+                        "label": "Bentley",
+                        "slug": "bentley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bentley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231235/?format=json"
+                },
+                "num_ballots": 210,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78206/?format=json"
+            }
+        ],
+        "id": 15354,
+        "num_spoilt_ballots": 17,
+        "num_turnout_reported": null,
+        "total_electorate": 12979,
+        "turnout_percentage": 23.03,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15354/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.bessacarr.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78219,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212208,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23164,
+                        "name": "Nick Allen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23164/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212208/?format=json"
+                },
+                "num_ballots": 1808,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78219/?format=json"
+            },
+            {
+                "id": 78220,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212209,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73021,
+                        "name": "Laura Bluff",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73021/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212209/?format=json"
+                },
+                "num_ballots": 1615,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78220/?format=json"
+            },
+            {
+                "id": 78225,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218577,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23173,
+                        "name": "Majid Khan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23173/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218577/?format=json"
+                },
+                "num_ballots": 1583,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78225/?format=json"
+            },
+            {
+                "id": 78223,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 212210,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 73022,
+                        "name": "James Goff",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/73022/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/212210/?format=json"
+                },
+                "num_ballots": 1437,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78223/?format=json"
+            },
+            {
+                "id": 78222,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218576,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23169,
+                        "name": "Neil Gethin",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23169/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218576/?format=json"
+                },
+                "num_ballots": 1380,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78222/?format=json"
+            },
+            {
+                "id": 78224,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219520,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76686,
+                        "name": "Lauren Barbara Hogg",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76686/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219520/?format=json"
+                },
+                "num_ballots": 1199,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78224/?format=json"
+            },
+            {
+                "id": 78221,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219519,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23167,
+                        "name": "Monty Cuthbert",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23167/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219519/?format=json"
+                },
+                "num_ballots": 885,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78221/?format=json"
+            },
+            {
+                "id": 78226,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219521,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23175,
+                        "name": "Veronica Jane Maxwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23175/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219521/?format=json"
+                },
+                "num_ballots": 386,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78226/?format=json"
+            },
+            {
+                "id": 78227,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219522,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76687,
+                        "name": "Giulia Savini",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76687/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010732",
+                        "label": "Bessacarr",
+                        "slug": "bessacarr",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/bessacarr/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219522/?format=json"
+                },
+                "num_ballots": 263,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78227/?format=json"
+            }
+        ],
+        "id": 15357,
+        "num_spoilt_ballots": 7,
+        "num_turnout_reported": null,
+        "total_electorate": 11710,
+        "turnout_percentage": 35.44,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15357/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.conisbrough.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78476,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218580,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23188,
+                        "name": "Lani-Mae Ball",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23188/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218580/?format=json"
+                },
+                "num_ballots": 2126,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78476/?format=json"
+            },
+            {
+                "id": 78475,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218578,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23189,
+                        "name": "Nigel Ball",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23189/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218578/?format=json"
+                },
+                "num_ballots": 2102,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78475/?format=json"
+            },
+            {
+                "id": 78478,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218579,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23191,
+                        "name": "Ian Pearson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23191/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218579/?format=json"
+                },
+                "num_ballots": 1560,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78478/?format=json"
+            },
+            {
+                "id": 78474,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231244,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31056,
+                        "name": "Christine Yvonne Allen",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31056/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231244/?format=json"
+                },
+                "num_ballots": 610,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78474/?format=json"
+            },
+            {
+                "id": 78477,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231245,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82483,
+                        "name": "Jacqueline Isaacs",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82483/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231245/?format=json"
+                },
+                "num_ballots": 403,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78477/?format=json"
+            },
+            {
+                "id": 78480,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231247,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82485,
+                        "name": "Matthew Grant Wood",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82485/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231247/?format=json"
+                },
+                "num_ballots": 256,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78480/?format=json"
+            },
+            {
+                "id": 78479,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231246,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:804",
+                        "name": "Trade Unionist and Socialist Coalition"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82484,
+                        "name": "Lee Trow",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82484/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231246/?format=json"
+                },
+                "num_ballots": 251,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78479/?format=json"
+            },
+            {
+                "id": 78481,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231248,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31088,
+                        "name": "Doreen Woodhouse",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31088/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010733",
+                        "label": "Conisbrough",
+                        "slug": "conisbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/conisbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231248/?format=json"
+                },
+                "num_ballots": 167,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78481/?format=json"
+            }
+        ],
+        "id": 15382,
+        "num_spoilt_ballots": 15,
+        "num_turnout_reported": 12222,
+        "total_electorate": null,
+        "turnout_percentage": 25.23,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15382/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.edenthorpe-kirk-sandall.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78833,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218582,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23060,
+                        "name": "David Andrew Nevett",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23060/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218582/?format=json"
+                },
+                "num_ballots": 1098,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78833/?format=json"
+            },
+            {
+                "id": 78834,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218581,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 19470,
+                        "name": "Andrea Robinson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/19470/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218581/?format=json"
+                },
+                "num_ballots": 1065,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78834/?format=json"
+            },
+            {
+                "id": 78830,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231266,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82491,
+                        "name": "Jason Colin Carruthers",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82491/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231266/?format=json"
+                },
+                "num_ballots": 848,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78830/?format=json"
+            },
+            {
+                "id": 78832,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231268,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82493,
+                        "name": "Julia Elizabeth Gibbons",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82493/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231268/?format=json"
+                },
+                "num_ballots": 810,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78832/?format=json"
+            },
+            {
+                "id": 78835,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231269,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82494,
+                        "name": "Fiona Wilson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82494/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231269/?format=json"
+                },
+                "num_ballots": 355,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78835/?format=json"
+            },
+            {
+                "id": 78831,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231267,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78466,
+                        "name": "Kieron Anthony Franks",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78466/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010734",
+                        "label": "Edenthorpe & Kirk Sandall",
+                        "slug": "edenthorpe-kirk-sandall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edenthorpe-kirk-sandall/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231267/?format=json"
+                },
+                "num_ballots": 149,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78831/?format=json"
+            }
+        ],
+        "id": 15449,
+        "num_spoilt_ballots": 15,
+        "num_turnout_reported": null,
+        "total_electorate": 7899,
+        "turnout_percentage": 31.66,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15449/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.edlington-warmsworth.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78845,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218583,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23213,
+                        "name": "Phil Cole",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23213/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218583/?format=json"
+                },
+                "num_ballots": 1002,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78845/?format=json"
+            },
+            {
+                "id": 78850,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 220308,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:12564",
+                        "name": "Edlington and Warmsworth First"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23243,
+                        "name": "Rob Reid",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23243/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/220308/?format=json"
+                },
+                "num_ballots": 778,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78850/?format=json"
+            },
+            {
+                "id": 78849,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 220307,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 77114,
+                        "name": "Kirsty Lenham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/77114/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/220307/?format=json"
+                },
+                "num_ballots": 739,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78849/?format=json"
+            },
+            {
+                "id": 78844,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 220305,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:12564",
+                        "name": "Edlington and Warmsworth First"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 77112,
+                        "name": "Keri Anderson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/77112/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/220305/?format=json"
+                },
+                "num_ballots": 666,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78844/?format=json"
+            },
+            {
+                "id": 78847,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 216231,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74974,
+                        "name": "Joe George",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74974/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/216231/?format=json"
+                },
+                "num_ballots": 583,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78847/?format=json"
+            },
+            {
+                "id": 78848,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 216239,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74979,
+                        "name": "Carol Greenhalgh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74979/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/216239/?format=json"
+                },
+                "num_ballots": 386,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78848/?format=json"
+            },
+            {
+                "id": 78846,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 220306,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 77113,
+                        "name": "Toby William Crane",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/77113/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010735",
+                        "label": "Edlington & Warmsworth",
+                        "slug": "edlington-warmsworth",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/edlington-warmsworth/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/220306/?format=json"
+                },
+                "num_ballots": 137,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78846/?format=json"
+            }
+        ],
+        "id": 15452,
+        "num_spoilt_ballots": 13,
+        "num_turnout_reported": null,
+        "total_electorate": 8799,
+        "turnout_percentage": 27.75,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15452/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.finningley.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 78912,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218586,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23222,
+                        "name": "Allan Jones",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23222/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218586/?format=json"
+                },
+                "num_ballots": 2458,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78912/?format=json"
+            },
+            {
+                "id": 78909,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218584,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23218,
+                        "name": "Jane Cox",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23218/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218584/?format=json"
+                },
+                "num_ballots": 2188,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78909/?format=json"
+            },
+            {
+                "id": 78910,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218585,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23219,
+                        "name": "Stephen Leslie Cox",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23219/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218585/?format=json"
+                },
+                "num_ballots": 2056,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78910/?format=json"
+            },
+            {
+                "id": 78913,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231285,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82502,
+                        "name": "Sue Lister",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82502/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231285/?format=json"
+                },
+                "num_ballots": 1267,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78913/?format=json"
+            },
+            {
+                "id": 78908,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231283,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82500,
+                        "name": "Paul Stephen Caunce",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82500/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231283/?format=json"
+                },
+                "num_ballots": 990,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78908/?format=json"
+            },
+            {
+                "id": 78911,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231284,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82501,
+                        "name": "Rob Dennis",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82501/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231284/?format=json"
+                },
+                "num_ballots": 849,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78911/?format=json"
+            },
+            {
+                "id": 78906,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231281,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82498,
+                        "name": "Harrison Balme",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82498/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231281/?format=json"
+                },
+                "num_ballots": 780,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78906/?format=json"
+            },
+            {
+                "id": 78907,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231282,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82499,
+                        "name": "Joshua Brignall-Morley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82499/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010736",
+                        "label": "Finningley",
+                        "slug": "finningley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/finningley/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231282/?format=json"
+                },
+                "num_ballots": 351,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/78907/?format=json"
+            }
+        ],
+        "id": 15461,
+        "num_spoilt_ballots": 28,
+        "num_turnout_reported": null,
+        "total_electorate": 13882,
+        "turnout_percentage": 34.27,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15461/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.wheatley-hills-intake.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 79028,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231344,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "joint-party:53-119",
+                        "name": "Labour and Co-operative Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82526,
+                        "name": "Daniel Steven Barwell",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82526/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231344/?format=json"
+                },
+                "num_ballots": 1457,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79028/?format=json"
+            },
+            {
+                "id": 79032,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218597,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "joint-party:53-119",
+                        "name": "Labour and Co-operative Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 25855,
+                        "name": "Jane Kidd",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/25855/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218597/?format=json"
+                },
+                "num_ballots": 1445,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79032/?format=json"
+            },
+            {
+                "id": 79033,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231348,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "joint-party:53-119",
+                        "name": "Labour and Co-operative Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82529,
+                        "name": "Emma Michelle Muddiman-Rawlins",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82529/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231348/?format=json"
+                },
+                "num_ballots": 1287,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79033/?format=json"
+            },
+            {
+                "id": 79035,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231350,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 25856,
+                        "name": "Roy John Penketh",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/25856/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231350/?format=json"
+                },
+                "num_ballots": 932,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79035/?format=json"
+            },
+            {
+                "id": 79034,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231349,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82530,
+                        "name": "Mark Parkinson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82530/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231349/?format=json"
+                },
+                "num_ballots": 727,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79034/?format=json"
+            },
+            {
+                "id": 79031,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231347,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82528,
+                        "name": "Nic Davison",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82528/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231347/?format=json"
+                },
+                "num_ballots": 660,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79031/?format=json"
+            },
+            {
+                "id": 79030,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231346,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 75486,
+                        "name": "Andy Budden",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/75486/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231346/?format=json"
+                },
+                "num_ballots": 653,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79030/?format=json"
+            },
+            {
+                "id": 79029,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231345,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82527,
+                        "name": "Julie Margaret Blount",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82527/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231345/?format=json"
+                },
+                "num_ballots": 377,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79029/?format=json"
+            },
+            {
+                "id": 79036,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231351,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82531,
+                        "name": "Jennifer Joanne Rozenfelds",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82531/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231351/?format=json"
+                },
+                "num_ballots": 305,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79036/?format=json"
+            },
+            {
+                "id": 79037,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 231352,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 82532,
+                        "name": "Dean Peter Southall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/82532/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010748",
+                        "label": "Wheatley Hills & Intake",
+                        "slug": "wheatley-hills-intake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/wheatley-hills-intake/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/231352/?format=json"
+                },
+                "num_ballots": 232,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/79037/?format=json"
+            }
+        ],
+        "id": 15486,
+        "num_spoilt_ballots": 18,
+        "num_turnout_reported": null,
+        "total_electorate": 12879,
+        "turnout_percentage": 25.96,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/15486/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.hatfield.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83607,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218588,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23226,
+                        "name": "Linda Mary Curran",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23226/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218588/?format=json"
+                },
+                "num_ballots": 1197,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83607/?format=json"
+            },
+            {
+                "id": 83604,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218587,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23223,
+                        "name": "Duncan Charles Anderson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23223/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218587/?format=json"
+                },
+                "num_ballots": 1100,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83604/?format=json"
+            },
+            {
+                "id": 83611,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219446,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76648,
+                        "name": "Glynis Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76648/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219446/?format=json"
+                },
+                "num_ballots": 1091,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83611/?format=json"
+            },
+            {
+                "id": 83603,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219441,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76644,
+                        "name": "Emma Adams",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76644/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219441/?format=json"
+                },
+                "num_ballots": 1064,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83603/?format=json"
+            },
+            {
+                "id": 83609,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219431,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23227,
+                        "name": "Mick Glynn",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23227/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219431/?format=json"
+                },
+                "num_ballots": 826,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83609/?format=json"
+            },
+            {
+                "id": 83606,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219443,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23225,
+                        "name": "Jessie Jamieson Credland",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23225/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219443/?format=json"
+                },
+                "num_ballots": 825,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83606/?format=json"
+            },
+            {
+                "id": 83608,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219444,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76646,
+                        "name": "Olivia Essem",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76646/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219444/?format=json"
+                },
+                "num_ballots": 777,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83608/?format=json"
+            },
+            {
+                "id": 83605,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219442,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76645,
+                        "name": "Mark Steven Broadhurst",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76645/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219442/?format=json"
+                },
+                "num_ballots": 685,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83605/?format=json"
+            },
+            {
+                "id": 83612,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219447,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 25858,
+                        "name": "Neil Saran Srivastava",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/25858/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219447/?format=json"
+                },
+                "num_ballots": 641,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83612/?format=json"
+            },
+            {
+                "id": 83610,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219445,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76647,
+                        "name": "Rob Nicholas",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76647/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010737",
+                        "label": "Hatfield",
+                        "slug": "hatfield",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hatfield/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219445/?format=json"
+                },
+                "num_ballots": 216,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83610/?format=json"
+            }
+        ],
+        "id": 16423,
+        "num_spoilt_ballots": 13,
+        "num_turnout_reported": null,
+        "total_electorate": 11553,
+        "turnout_percentage": 28.87,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16423/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.hexthorpe-balby-north.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83615,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218589,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23234,
+                        "name": "Glyn Allen Jones",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23234/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218589/?format=json"
+                },
+                "num_ballots": 951,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83615/?format=json"
+            },
+            {
+                "id": 83616,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218994,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76389,
+                        "name": "Sophie Liu",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76389/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218994/?format=json"
+                },
+                "num_ballots": 535,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83616/?format=json"
+            },
+            {
+                "id": 83614,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218993,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23214,
+                        "name": "Liz Jones",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23214/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218993/?format=json"
+                },
+                "num_ballots": 503,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83614/?format=json"
+            },
+            {
+                "id": 83617,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218995,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76390,
+                        "name": "Chris Nowak",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76390/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218995/?format=json"
+                },
+                "num_ballots": 332,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83617/?format=json"
+            },
+            {
+                "id": 83613,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218992,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76388,
+                        "name": "Angela Curtis",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76388/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218992/?format=json"
+                },
+                "num_ballots": 277,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83613/?format=json"
+            },
+            {
+                "id": 83618,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218996,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76391,
+                        "name": "Tina Reid",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76391/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010738",
+                        "label": "Hexthorpe & Balby North",
+                        "slug": "hexthorpe-balby-north",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/hexthorpe-balby-north/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218996/?format=json"
+                },
+                "num_ballots": 126,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83618/?format=json"
+            }
+        ],
+        "id": 16424,
+        "num_spoilt_ballots": 15,
+        "num_turnout_reported": null,
+        "total_electorate": 8119,
+        "turnout_percentage": 22.05,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16424/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.norton-askern.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83626,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214533,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31000,
+                        "name": "Austen William White",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31000/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214533/?format=json"
+                },
+                "num_ballots": 1502,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83626/?format=json"
+            },
+            {
+                "id": 83619,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214532,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 30995,
+                        "name": "Iris Beech",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/30995/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214532/?format=json"
+                },
+                "num_ballots": 1467,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83619/?format=json"
+            },
+            {
+                "id": 83624,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219029,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76409,
+                        "name": "Thomas Michael Noon",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76409/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219029/?format=json"
+                },
+                "num_ballots": 1459,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83624/?format=json"
+            },
+            {
+                "id": 83622,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214534,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 74021,
+                        "name": "Harry James Fisher",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/74021/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214534/?format=json"
+                },
+                "num_ballots": 915,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83622/?format=json"
+            },
+            {
+                "id": 83625,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219030,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76410,
+                        "name": "Sean Poulter",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76410/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219030/?format=json"
+                },
+                "num_ballots": 896,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83625/?format=json"
+            },
+            {
+                "id": 83627,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219031,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76411,
+                        "name": "John Whiteside",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76411/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219031/?format=json"
+                },
+                "num_ballots": 847,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83627/?format=json"
+            },
+            {
+                "id": 83623,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219028,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 30997,
+                        "name": "Frank Jackson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/30997/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219028/?format=json"
+                },
+                "num_ballots": 658,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83623/?format=json"
+            },
+            {
+                "id": 83620,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219026,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76407,
+                        "name": "Alison Mary Briggs",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76407/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219026/?format=json"
+                },
+                "num_ballots": 603,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83620/?format=json"
+            },
+            {
+                "id": 83621,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219027,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76408,
+                        "name": "Simon Epton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76408/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010740",
+                        "label": "Norton & Askern",
+                        "slug": "norton-askern",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/norton-askern/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219027/?format=json"
+                },
+                "num_ballots": 495,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83621/?format=json"
+            }
+        ],
+        "id": 16425,
+        "num_spoilt_ballots": 21,
+        "num_turnout_reported": null,
+        "total_electorate": 11619,
+        "turnout_percentage": 31.3,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16425/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.roman-ridge.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83630,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219012,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76399,
+                        "name": "Leanne Hempshall",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76399/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219012/?format=json"
+                },
+                "num_ballots": 1055,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83630/?format=json"
+            },
+            {
+                "id": 83629,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219011,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76398,
+                        "name": "Julie Grace",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76398/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219011/?format=json"
+                },
+                "num_ballots": 899,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83629/?format=json"
+            },
+            {
+                "id": 83628,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219010,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76397,
+                        "name": "David Edward Clayton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76397/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219010/?format=json"
+                },
+                "num_ballots": 647,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83628/?format=json"
+            },
+            {
+                "id": 83632,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219014,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23140,
+                        "name": "Tony Nicholson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23140/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219014/?format=json"
+                },
+                "num_ballots": 506,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83632/?format=json"
+            },
+            {
+                "id": 83631,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219013,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 72503,
+                        "name": "Kate Needham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/72503/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219013/?format=json"
+                },
+                "num_ballots": 489,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83631/?format=json"
+            },
+            {
+                "id": 83634,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219016,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76401,
+                        "name": "Danielle Jo Smith",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76401/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219016/?format=json"
+                },
+                "num_ballots": 378,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83634/?format=json"
+            },
+            {
+                "id": 83633,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219015,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:7931",
+                        "name": "Reform UK"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76400,
+                        "name": "Howard Bruce Rimmer",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76400/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010741",
+                        "label": "Roman Ridge",
+                        "slug": "roman-ridge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/roman-ridge/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219015/?format=json"
+                },
+                "num_ballots": 207,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83633/?format=json"
+            }
+        ],
+        "id": 16426,
+        "num_spoilt_ballots": 12,
+        "num_turnout_reported": null,
+        "total_electorate": 8576,
+        "turnout_percentage": 29.17,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16426/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.rossington-bawtry.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83637,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218593,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31072,
+                        "name": "Rachael Blake",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31072/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218593/?format=json"
+                },
+                "num_ballots": 1999,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83637/?format=json"
+            },
+            {
+                "id": 83635,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219057,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76417,
+                        "name": "Bob Anderson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76417/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219057/?format=json"
+                },
+                "num_ballots": 1794,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83635/?format=json"
+            },
+            {
+                "id": 83640,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219061,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76420,
+                        "name": "Barry Johnson",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76420/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219061/?format=json"
+                },
+                "num_ballots": 1414,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83640/?format=json"
+            },
+            {
+                "id": 83638,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219059,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31073,
+                        "name": "John Nolan Cooke",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31073/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219059/?format=json"
+                },
+                "num_ballots": 1147,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83638/?format=json"
+            },
+            {
+                "id": 83641,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219062,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76421,
+                        "name": "Julie Anne Kong",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76421/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219062/?format=json"
+                },
+                "num_ballots": 878,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83641/?format=json"
+            },
+            {
+                "id": 83636,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219058,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76418,
+                        "name": "Mike Angus",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76418/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219058/?format=json"
+                },
+                "num_ballots": 877,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83636/?format=json"
+            },
+            {
+                "id": 83643,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219064,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31076,
+                        "name": "Clive Graham Stone",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31076/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219064/?format=json"
+                },
+                "num_ballots": 573,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83643/?format=json"
+            },
+            {
+                "id": 83642,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219063,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76422,
+                        "name": "Patrick Musami",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76422/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219063/?format=json"
+                },
+                "num_ballots": 564,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83642/?format=json"
+            },
+            {
+                "id": 83639,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219060,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76419,
+                        "name": "Han Haydn",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76419/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010742",
+                        "label": "Rossington & Bawtry",
+                        "slug": "rossington-bawtry",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/rossington-bawtry/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219060/?format=json"
+                },
+                "num_ballots": 335,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83639/?format=json"
+            }
+        ],
+        "id": 16427,
+        "num_spoilt_ballots": 18,
+        "num_turnout_reported": null,
+        "total_electorate": 13654,
+        "turnout_percentage": 28.95,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16427/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.sprotbrough.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83649,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218594,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31068,
+                        "name": "Cynthia Anne Ransome",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31068/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218594/?format=json"
+                },
+                "num_ballots": 1521,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83649/?format=json"
+            },
+            {
+                "id": 83644,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223295,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78710,
+                        "name": "Glenn Karl Bluff",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78710/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223295/?format=json"
+                },
+                "num_ballots": 1124,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83644/?format=json"
+            },
+            {
+                "id": 83647,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223298,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78713,
+                        "name": "David Holland",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78713/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223298/?format=json"
+                },
+                "num_ballots": 1008,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83647/?format=json"
+            },
+            {
+                "id": 83650,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 218595,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31070,
+                        "name": "Jonathan Blundell Wood",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31070/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/218595/?format=json"
+                },
+                "num_ballots": 710,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83650/?format=json"
+            },
+            {
+                "id": 83646,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223297,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78712,
+                        "name": "Philip Allan Docherty",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78712/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223297/?format=json"
+                },
+                "num_ballots": 651,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83646/?format=json"
+            },
+            {
+                "id": 83645,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223296,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31066,
+                        "name": "Fiona Dorothy Patricia Cahill",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31066/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223296/?format=json"
+                },
+                "num_ballots": 552,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83645/?format=json"
+            },
+            {
+                "id": 83648,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223299,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:243",
+                        "name": "Social Democratic Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78714,
+                        "name": "Laura Jade McHardy",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78714/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010743",
+                        "label": "Sprotbrough",
+                        "slug": "sprotbrough",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/sprotbrough/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223299/?format=json"
+                },
+                "num_ballots": 100,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83648/?format=json"
+            }
+        ],
+        "id": 16428,
+        "num_spoilt_ballots": 16,
+        "num_turnout_reported": null,
+        "total_electorate": 8893,
+        "turnout_percentage": 36.75,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16428/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.stainforth-barnby-dun.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83680,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229327,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81671,
+                        "name": "Sue Farmer",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81671/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229327/?format=json"
+                },
+                "num_ballots": 678,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83680/?format=json"
+            },
+            {
+                "id": 83686,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229333,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81677,
+                        "name": "Gary Stapleton",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81677/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229333/?format=json"
+                },
+                "num_ballots": 663,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83686/?format=json"
+            },
+            {
+                "id": 83684,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229331,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81675,
+                        "name": "Steven James Ratcliffe",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81675/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229331/?format=json"
+                },
+                "num_ballots": 619,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83684/?format=json"
+            },
+            {
+                "id": 83683,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229330,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81674,
+                        "name": "Lee Michael Pitcher",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81674/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229330/?format=json"
+                },
+                "num_ballots": 486,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83683/?format=json"
+            },
+            {
+                "id": 83681,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229328,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31058,
+                        "name": "Ken Keegan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31058/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229328/?format=json"
+                },
+                "num_ballots": 274,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83681/?format=json"
+            },
+            {
+                "id": 83687,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229334,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81678,
+                        "name": "Anne Lesley Sylvester",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81678/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229334/?format=json"
+                },
+                "num_ballots": 272,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83687/?format=json"
+            },
+            {
+                "id": 83685,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229332,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81676,
+                        "name": "Rosemarie Squires",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81676/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229332/?format=json"
+                },
+                "num_ballots": 208,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83685/?format=json"
+            },
+            {
+                "id": 83679,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229326,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31057,
+                        "name": "George Derx",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31057/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229326/?format=json"
+                },
+                "num_ballots": 202,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83679/?format=json"
+            },
+            {
+                "id": 83682,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229329,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81673,
+                        "name": "Richard Needham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81673/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229329/?format=json"
+                },
+                "num_ballots": 157,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83682/?format=json"
+            },
+            {
+                "id": 83688,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 229335,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 81679,
+                        "name": "Neil James Wood",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/81679/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010744",
+                        "label": "Stainforth & Barnby Dun",
+                        "slug": "stainforth-barnby-dun",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/stainforth-barnby-dun/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/229335/?format=json"
+                },
+                "num_ballots": 47,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83688/?format=json"
+            }
+        ],
+        "id": 16435,
+        "num_spoilt_ballots": 8,
+        "num_turnout_reported": null,
+        "total_electorate": 7349,
+        "turnout_percentage": 28.71,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16435/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.thorne-moorends.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83691,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214536,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23787,
+                        "name": "Susan Jane Durant",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23787/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214536/?format=json"
+                },
+                "num_ballots": 1649,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83691/?format=json"
+            },
+            {
+                "id": 83693,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214537,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23788,
+                        "name": "Mark Stuart Houlbrook",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23788/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214537/?format=json"
+                },
+                "num_ballots": 1534,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83693/?format=json"
+            },
+            {
+                "id": 83690,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 214535,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23784,
+                        "name": "Joe Blackham",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23784/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/214535/?format=json"
+                },
+                "num_ballots": 1238,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83690/?format=json"
+            },
+            {
+                "id": 83694,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223481,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78795,
+                        "name": "Paul David Tonge",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78795/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223481/?format=json"
+                },
+                "num_ballots": 970,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83694/?format=json"
+            },
+            {
+                "id": 83696,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223483,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "ynmp-party:2",
+                        "name": "Independent"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 23791,
+                        "name": "Martin Williams",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23791/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223483/?format=json"
+                },
+                "num_ballots": 918,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83696/?format=json"
+            },
+            {
+                "id": 83689,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223479,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78793,
+                        "name": "James Norman Aitken",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78793/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223479/?format=json"
+                },
+                "num_ballots": 674,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83689/?format=json"
+            },
+            {
+                "id": 83695,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223482,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78796,
+                        "name": "Tracey Wheeler",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78796/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223482/?format=json"
+                },
+                "num_ballots": 611,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83695/?format=json"
+            },
+            {
+                "id": 83692,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 223480,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 78794,
+                        "name": "Gwyn Ap Harri",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/78794/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010745",
+                        "label": "Thorne & Moorends",
+                        "slug": "thorne-moorends",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/thorne-moorends/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/223480/?format=json"
+                },
+                "num_ballots": 537,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83692/?format=json"
+            }
+        ],
+        "id": 16436,
+        "num_spoilt_ballots": 8,
+        "num_turnout_reported": null,
+        "total_electorate": 13364,
+        "turnout_percentage": 24.89,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16436/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
+    },
+    {
+        "ballot_paper_id": "local.doncaster.town.2021-05-06",
+        "candidate_results": [
+            {
+                "id": 83716,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219421,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76633,
+                        "name": "Gemma Louise Cobby",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76633/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219421/?format=json"
+                },
+                "num_ballots": 1768,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83716/?format=json"
+            },
+            {
+                "id": 83720,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219425,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 31035,
+                        "name": "Dave Shaw",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/31035/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219425/?format=json"
+                },
+                "num_ballots": 1430,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83720/?format=json"
+            },
+            {
+                "id": 83719,
+                "is_winner": true,
+                "membership": {
+                    "elected": true,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219424,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:53",
+                        "name": "Labour Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76636,
+                        "name": "Jake David Kearsley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76636/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219424/?format=json"
+                },
+                "num_ballots": 1340,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83719/?format=json"
+            },
+            {
+                "id": 83722,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219427,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76638,
+                        "name": "Molly Whiteside",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76638/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219427/?format=json"
+                },
+                "num_ballots": 793,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83722/?format=json"
+            },
+            {
+                "id": 83717,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219422,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76634,
+                        "name": "Dene Anthony Flannigan",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76634/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219422/?format=json"
+                },
+                "num_ballots": 782,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83717/?format=json"
+            },
+            {
+                "id": 83718,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219423,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:52",
+                        "name": "Conservative and Unionist Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76635,
+                        "name": "Reuben Glynn",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76635/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219423/?format=json"
+                },
+                "num_ballots": 726,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83718/?format=json"
+            },
+            {
+                "id": 83715,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219420,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:63",
+                        "name": "Green Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 48942,
+                        "name": "Julie Buckley",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/48942/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219420/?format=json"
+                },
+                "num_ballots": 725,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83715/?format=json"
+            },
+            {
+                "id": 83723,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219428,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:2055",
+                        "name": "Yorkshire Party"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 6212,
+                        "name": "Chris Whitwood",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/6212/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219428/?format=json"
+                },
+                "num_ballots": 521,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83723/?format=json"
+            },
+            {
+                "id": 83721,
+                "is_winner": false,
+                "membership": {
+                    "elected": false,
+                    "election": {
+                        "id": "local.doncaster.2021-05-06",
+                        "name": "Doncaster Metropolitan Borough Council",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/elections/local.doncaster.2021-05-06/?format=json"
+                    },
+                    "end_date": null,
+                    "id": 219426,
+                    "label": "",
+                    "on_behalf_of": {
+                        "id": "party:90",
+                        "name": "Liberal Democrats"
+                    },
+                    "party_list_position": null,
+                    "person": {
+                        "id": 76637,
+                        "name": "Jonathan Paul Snelling",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/76637/?format=json"
+                    },
+                    "post": {
+                        "id": "gss:E05010747",
+                        "label": "Town",
+                        "slug": "town",
+                        "url": "https://candidates.democracyclub.org.uk/api/v0.9/posts/town/?format=json"
+                    },
+                    "role": "Candidate",
+                    "start_date": null,
+                    "url": "https://candidates.democracyclub.org.uk/api/v0.9/memberships/219426/?format=json"
+                },
+                "num_ballots": 276,
+                "result_set": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+                "url": "https://candidates.democracyclub.org.uk/api/v0.9/candidate_results/83721/?format=json"
+            }
+        ],
+        "id": 16440,
+        "num_spoilt_ballots": 29,
+        "num_turnout_reported": null,
+        "total_electorate": 13772,
+        "turnout_percentage": 25.86,
+        "url": "https://candidates.democracyclub.org.uk/api/v0.9/result_sets/16440/?format=json",
+        "user": "Guar73",
+        "user_id": 9226
     }
 ];

@@ -12,8 +12,10 @@ RESULTS.forEach(function (res) {
     res.ballot_paper_id
     res.candidate_results.forEach(function (cand) {
         var wardUpper = cand.membership.post.label.toUpperCase();
-        if (!WARDS[wardUpper]) {
-            WARDS[wardUpper] = {
+        var regionUpper = normaliseElection(cand.membership.election.name).toUpperCase() + ' DISTRICT';
+        var wardUpperFull = wardUpper + ', ' + regionUpper;
+        if (!WARDS[wardUpperFull]) {
+            WARDS[wardUpperFull] = {
                 election: cand.membership.election,
                 post: cand.membership.post,
                 results: [],
@@ -21,9 +23,9 @@ RESULTS.forEach(function (res) {
                 ballot_paper_id: res.ballot_paper_id
             }
         }
-        WARDS[wardUpper].results.push(cand);
+        WARDS[wardUpperFull].results.push(cand);
         if (cand.is_winner) {
-            WARDS[wardUpper].winner = cand;
+            WARDS[wardUpperFull].winner = cand;
         }
     });
 });
@@ -70,12 +72,16 @@ function normaliseName(name) {
         .replace(/^Sir /, '');
 }
 
+function normaliseElection(name) {
+    return name.replace(/( local election)|( metropolitan borough council)$/i, '');
+}
+
 L.geoJSON(BOUNDARIES, {
     filter: function (feature) {
-        return /, (SHEFFIELD)|(BARNSLEY) DISTRICT$/.test(feature.properties.fullname);
+        return /, (SHEFFIELD)|(BARNSLEY)|(DONCASTER)|(ROTHERHAM) DISTRICT$/.test(feature.properties.fullname);
     },
     style: function (feature) {
-        var ward = WARDS[feature.properties.name];
+        var ward = WARDS[feature.properties.fullname];
         var color = 'grey';
         var fillOpacity = 0.01;
         var weight = 0.5;
@@ -92,7 +98,7 @@ L.geoJSON(BOUNDARIES, {
         };
     },
     onEachFeature: function (feature, layer) {
-        var ward = WARDS[feature.properties.name];
+        var ward = WARDS[feature.properties.fullname];
         var tt = '';
         if (ward) {
             if (ward.turnout) {
@@ -104,7 +110,7 @@ L.geoJSON(BOUNDARIES, {
             tt += '<h2 class="results__head">';
             tt += safe(ward.post.label);
             tt += ' - ';
-            tt += safe(ward.election.name.replace(/ local election$/, ''));
+            tt += safe(normaliseElection(ward.election.name));
             tt += '</h2>';
 
             tt += '<table class="results__table" cellspacing="0" cellpadding="5">'
@@ -139,11 +145,12 @@ L.geoJSON(BOUNDARIES, {
             tt += '</table>'
 
             if (window.COUNCILLORS) {
-                var council = COUNCILLORS[feature.properties.name];
+                var council = COUNCILLORS[feature.properties.fullname];
                 if (council) {
                     tt += '<hr>';
                     tt += '<h3>Previous Council makeup</h3>';
                     tt += '<div class="results__incumbents">';
+                    var holdOrLoss = false;
                     council.seats.forEach((seat) => {
                         var inc_bg = colors[seat.party] || 'grey';
                         tt += '<p>';
@@ -153,13 +160,20 @@ L.geoJSON(BOUNDARIES, {
                         var normName = normaliseName(seat.name);
                         if (normName == winner) {
                             tt += ' <b>(hold)</b>';
+                            holdOrLoss = true;
                         }
                         if (losers[normName]) {
                             tt += ' <b>(lost)</b>';
+                            holdOrLoss = true;
                         }
                         tt += '</p>'
                     });
                     tt += '</div>';
+                    if (!holdOrLoss) {
+                        // console.log(feature.properties.fullname);
+                        // console.log(council.seats.map(s => s.name));
+                        // console.log([winner], Object.keys(losers));
+                    }
                 } else {
                     // console.log(feature.properties.name);
                 }

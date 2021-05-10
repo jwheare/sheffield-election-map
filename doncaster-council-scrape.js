@@ -1,11 +1,11 @@
-// https://democracy.sheffield.gov.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=
+// https://doncaster.moderngov.co.uk/mgMemberIndex.aspx?VW=TABLE&PIC=1&FN=WARD
 var COUNCILLORS = $('#mgTable1').find('tr.mgTableOddRow, tr.mgTableEvenRow');
 var WARDS = {};
 COUNCILLORS.each((idx, row) => {
     var cells = $(row).find('td');
     var name = $(cells[1]).find('p')[0].innerText.replace(/Councillor /, '');
     var party = cells[2].innerText;
-    var ward = cells[3].innerText.replace(' and ', ' & ').toUpperCase() + ', SHEFIELD DISTRICT';
+    var ward = cells[3].innerText.replace(' and ', ' & ').toUpperCase() + ', DONCASTER DISTRICT';
     console.log(ward, party, name);
     if (!WARDS[ward]) {
         WARDS[ward] = {

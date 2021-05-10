@@ -1,5 +1,5 @@
 var COUNCILLORS = {
-    "BEAUCHIEF & GREENHILL": {
+    "BEAUCHIEF & GREENHILL, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Simon Clement-Jones",
@@ -15,7 +15,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "BEIGHTON": {
+    "BEIGHTON, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Bob McCann",
@@ -31,7 +31,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "BIRLEY": {
+    "BIRLEY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Denise Fox",
@@ -47,7 +47,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "BROOMHILL & SHARROW VALE": {
+    "BROOMHILL & SHARROW VALE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Angela Argenzio",
@@ -59,7 +59,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "BURNGREAVE": {
+    "BURNGREAVE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Jackie Drayton",
@@ -75,7 +75,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "CITY": {
+    "CITY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Douglas Johnson",
@@ -91,7 +91,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "CROOKES & CROSSPOOL": {
+    "CROOKES & CROSSPOOL, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Tim Huggan",
@@ -107,7 +107,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DARNALL": {
+    "DARNALL, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Mazher Iqbal",
@@ -123,7 +123,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DORE & TOTLEY": {
+    "DORE & TOTLEY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Joe Otten",
@@ -139,7 +139,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "EAST ECCLESFIELD": {
+    "EAST ECCLESFIELD, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Andy Bainbridge",
@@ -155,7 +155,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "ECCLESALL": {
+    "ECCLESALL, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Roger Noel Davison",
@@ -171,7 +171,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "FIRTH PARK": {
+    "FIRTH PARK, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Abdul Khayum",
@@ -187,7 +187,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "FULWOOD": {
+    "FULWOOD, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Sue Alston",
@@ -203,7 +203,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "GLEADLESS VALLEY": {
+    "GLEADLESS VALLEY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Lewis Dagnall",
@@ -219,7 +219,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "GRAVES PARK": {
+    "GRAVES PARK, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Ian Auckland",
@@ -235,7 +235,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "HILLSBOROUGH": {
+    "HILLSBOROUGH, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Bob Johnson",
@@ -251,7 +251,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "MANOR CASTLE": {
+    "MANOR CASTLE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Terry Fox",
@@ -263,7 +263,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "MOSBOROUGH": {
+    "MOSBOROUGH, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Tony Downing",
@@ -279,7 +279,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "NETHER EDGE & SHARROW": {
+    "NETHER EDGE & SHARROW, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Peter Garbutt",
@@ -295,7 +295,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "PARK & ARBOURTHORNE": {
+    "PARK & ARBOURTHORNE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Julie Dore",
@@ -311,7 +311,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "RICHMOND": {
+    "RICHMOND, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Mike Drabble",
@@ -323,7 +323,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "SHIREGREEN & BRIGHTSIDE": {
+    "SHIREGREEN & BRIGHTSIDE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Dawn Dale",
@@ -339,7 +339,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "SOUTHEY": {
+    "SOUTHEY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Mike Chaplin",
@@ -355,7 +355,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "STANNINGTON": {
+    "STANNINGTON, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "David Baker",
@@ -371,7 +371,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "STOCKSBRIDGE & UPPER DON": {
+    "STOCKSBRIDGE & UPPER DON, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Jack Clarkson",
@@ -387,7 +387,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "WALKLEY": {
+    "WALKLEY, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Ben Curran",
@@ -399,7 +399,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "WEST ECCLESFIELD": {
+    "WEST ECCLESFIELD, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Alan Hooper",
@@ -415,7 +415,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "WOODHOUSE": {
+    "WOODHOUSE, SHEFFIELD DISTRICT": {
         "seats": [
             {
                 "name": "Mick Rooney",
@@ -431,7 +431,7 @@ var COUNCILLORS = {
             }
         ]
     },
-        "CENTRAL": {
+        "CENTRAL, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Margaret Bruff",
@@ -443,7 +443,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "CUDWORTH": {
+    "CUDWORTH, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Joe Hayward",
@@ -459,7 +459,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DARFIELD": {
+    "DARFIELD, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Pauline Markham",
@@ -471,7 +471,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DARTON EAST": {
+    "DARTON EAST, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Steve Hunt",
@@ -483,7 +483,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DARTON WEST": {
+    "DARTON WEST, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Alice Cave",
@@ -499,7 +499,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DEARNE NORTH": {
+    "DEARNE NORTH, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Alan Gardiner",
@@ -511,7 +511,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DEARNE SOUTH": {
+    "DEARNE SOUTH, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Neil Danforth",
@@ -523,7 +523,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "DODWORTH": {
+    "DODWORTH, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Peter Fielding",
@@ -535,7 +535,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "HOYLAND MILTON": {
+    "HOYLAND MILTON, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Robin Franklin",
@@ -546,12 +546,12 @@ var COUNCILLORS = {
                 "party": "Labour"
             },
             {
-                "name": "Mick Stowe",
+                "name": "James Michael Stowe",
                 "party": "Labour"
             }
         ]
     },
-    "KINGSTONE": {
+    "KINGSTONE, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Kath Mitchell",
@@ -563,7 +563,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "MONK BRETTON": {
+    "MONK BRETTON, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Victoria Felton",
@@ -579,7 +579,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "NORTH EAST": {
+    "NORTH EAST, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Anita Cherryholme",
@@ -595,10 +595,10 @@ var COUNCILLORS = {
             }
         ]
     },
-    "OLD TOWN": {
+    "OLD TOWN, BARNSLEY DISTRICT": {
         "seats": [
             {
-                "name": "Phillip Lofts",
+                "name": "Phil Lofts",
                 "party": "Labour"
             },
             {
@@ -611,7 +611,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "PENISTONE EAST": {
+    "PENISTONE EAST, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Robert Barnard",
@@ -627,7 +627,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "PENISTONE WEST": {
+    "PENISTONE WEST, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "David Greenhough",
@@ -639,7 +639,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "ROCKINGHAM": {
+    "ROCKINGHAM, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Jim Andrews BEM",
@@ -655,7 +655,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "ROYSTON": {
+    "ROYSTON, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Tim Cheetham",
@@ -671,7 +671,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "ST HELENS": {
+    "ST HELENS, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Dave Leech",
@@ -687,7 +687,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "STAIRFOOT": {
+    "STAIRFOOT, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Janine Bowler",
@@ -699,7 +699,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "WOMBWELL": {
+    "WOMBWELL, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "Brenda Eastwood",
@@ -711,7 +711,7 @@ var COUNCILLORS = {
             }
         ]
     },
-    "WORSBROUGH": {
+    "WORSBROUGH, BARNSLEY DISTRICT": {
         "seats": [
             {
                 "name": "John Clarke JP",
@@ -720,6 +720,206 @@ var COUNCILLORS = {
             {
                 "name": "Jake Lodge",
                 "party": "Independent"
+            }
+        ]
+    },
+    "ADWICK & CARCROFT, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "John Mounsey",
+                "party": "Labour"
+            }
+        ]
+    },
+    "BALBY SOUTH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "John Healy",
+                "party": "Labour"
+            }
+        ]
+    },
+    "BENTLEY, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Charlie Hogarth",
+                "party": "Labour"
+            },
+            {
+                "name": "Jane Nightingale",
+                "party": "Labour"
+            }
+        ]
+    },
+    "BESSACARR, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Nick Allen",
+                "party": "Conservative"
+            },
+            {
+                "name": "Majid Khan",
+                "party": "Labour"
+            }
+        ]
+    },
+    "CONISBROUGH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Lani-Mae Ball",
+                "party": "Labour"
+            },
+            {
+                "name": "Nigel Ball",
+                "party": "Labour"
+            },
+            {
+                "name": "Ian Pearson",
+                "party": "Labour"
+            }
+        ]
+    },
+    "EDENTHORPE & KIRK SANDALL, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "David Nevett",
+                "party": "Labour"
+            },
+            {
+                "name": "Andrea Robinson",
+                "party": "Labour"
+            }
+        ]
+    },
+    "EDLINGTON & WARMSWORTH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Phil Cole",
+                "party": "Labour"
+            }
+        ]
+    },
+    "FINNINGLEY, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Jane Cox",
+                "party": "Conservative"
+            },
+            {
+                "name": "Stephen Leslie Cox",
+                "party": "Conservative"
+            },
+            {
+                "name": "Richard A Jones",
+                "party": "Conservative"
+            }
+        ]
+    },
+    "HATFIELD, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Duncan Anderson",
+                "party": "Labour"
+            },
+            {
+                "name": "Linda Curran",
+                "party": "Labour"
+            }
+        ]
+    },
+    "HEXTHORPE & BALBY NORTH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Glyn Jones",
+                "party": "Labour"
+            }
+        ]
+    },
+    "MEXBOROUGH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Bev Chapman",
+                "party": "Mexborough First"
+            },
+            {
+                "name": "Sean Gibbons",
+                "party": "Mexborough First"
+            },
+            {
+                "name": "Andy Pickering",
+                "party": "Mexborough First"
+            }
+        ]
+    },
+    "NORTON & ASKERN, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Iris Beech",
+                "party": "Labour"
+            },
+            {
+                "name": "Austen White",
+                "party": "Labour"
+            }
+        ]
+    },
+    "ROSSINGTON & BAWTRY, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Rachael Blake",
+                "party": "Labour"
+            }
+        ]
+    },
+    "SPROTBROUGH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Cynthia Anne Ransome",
+                "party": "Conservative"
+            }
+        ]
+    },
+    "THORNE & MOORENDS, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Joe Blackham",
+                "party": "Labour"
+            },
+            {
+                "name": "Susan Durant",
+                "party": "Labour"
+            },
+            {
+                "name": "Mark Houlbrook",
+                "party": "Labour"
+            }
+        ]
+    },
+    "TICKHILL & WADWORTH, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Nigel Cannings",
+                "party": "Conservative"
+            },
+            {
+                "name": "Martin Greenhalgh",
+                "party": "Conservative"
+            }
+        ]
+    },
+    "TOWN, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Dave Shaw",
+                "party": "Labour"
+            }
+        ]
+    },
+    "WHEATLEY HILLS & INTAKE, DONCASTER DISTRICT": {
+        "seats": [
+            {
+                "name": "Jane Kidd",
+                "party": "Labour"
             }
         ]
     }
