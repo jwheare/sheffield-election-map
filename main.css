@@ -1,7 +1,7 @@
 html {
     font-family: sans-serif;
 }
-#mapid { height: 800px; }
+#mapid { height: 1000px; }
 .results__turnout {
     float: right;
     font-size: 0.7rem;
