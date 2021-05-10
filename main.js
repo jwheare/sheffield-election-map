@@ -99,6 +99,7 @@ L.geoJSON(BOUNDARIES, {
             var partyWinner, partyRunnerUp;
             for (p in partyVotes) {
                 if (partyWinner && partyVotes[partyWinner] >= partyVotes[p]) {
+                    partyRunnerUp = p;
                     continue;
                 }
                 if (partyWinner) {
@@ -107,7 +108,6 @@ L.geoJSON(BOUNDARIES, {
                 partyWinner = p;
             }
             if (Object.keys(partyVotes).length > 1 && partyRunnerUp) {
-                console.log(partyVotes, feature.properties.fullname, partyRunnerUp, colors[partyRunnerUp] || 'grey');
                 pattern = new L.StripePattern({
                     color: colors[partyWinner] || 'grey',
                     spaceColor: colors[partyRunnerUp] || 'grey',
