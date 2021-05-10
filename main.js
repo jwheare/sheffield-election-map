@@ -120,7 +120,7 @@ L.geoJSON(BOUNDARIES, {
             tt += '<th>Votes</th>'
             tt += '</tr>'
 
-            var winner;
+            var winners = {};
             var losers = {};
             ward.results.forEach(function (res) {
                 var bg = colors[res.membership.on_behalf_of.name] || 'grey';
@@ -128,7 +128,7 @@ L.geoJSON(BOUNDARIES, {
 
                 tt += '<tr'
                 if (res.is_winner) {
-                    winner = res.membership.person.name;
+                    winners[res.membership.person.name] = true;
                     tt += ' class="results__winner"';
                     tt += ' style="background: ' + bg + '; color: ' + color + '"';
                 } else {
@@ -158,7 +158,7 @@ L.geoJSON(BOUNDARIES, {
                         tt += '</span>';
                         tt += safe(seat.party) + ': ' + safe(seat.name);
                         var normName = normaliseName(seat.name);
-                        if (normName == winner) {
+                        if (winners[normName]) {
                             tt += ' <b>(hold)</b>';
                             holdOrLoss = true;
                         }
@@ -169,11 +169,6 @@ L.geoJSON(BOUNDARIES, {
                         tt += '</p>'
                     });
                     tt += '</div>';
-                    if (!holdOrLoss) {
-                        // console.log(feature.properties.fullname);
-                        // console.log(council.seats.map(s => s.name));
-                        // console.log([winner], Object.keys(losers));
-                    }
                 } else {
                     // console.log(feature.properties.name);
                 }

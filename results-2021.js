@@ -21106,7 +21106,7 @@ var RESULTS = [
                     "party_list_position": null,
                     "person": {
                         "id": 23222,
-                        "name": "Allan Jones",
+                        "name": "Richard A Jones",
                         "url": "https://candidates.democracyclub.org.uk/api/v0.9/persons/23222/?format=json"
                     },
                     "post": {

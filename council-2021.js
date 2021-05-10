@@ -734,7 +734,7 @@ var COUNCILLORS = {
     "BALBY SOUTH, DONCASTER DISTRICT": {
         "seats": [
             {
-                "name": "John Healy",
+                "name": "John Patrick Joseph Healy",
                 "party": "Labour"
             }
         ]
@@ -782,7 +782,7 @@ var COUNCILLORS = {
     "EDENTHORPE & KIRK SANDALL, DONCASTER DISTRICT": {
         "seats": [
             {
-                "name": "David Nevett",
+                "name": "David Andrew Nevett",
                 "party": "Labour"
             },
             {
@@ -818,11 +818,11 @@ var COUNCILLORS = {
     "HATFIELD, DONCASTER DISTRICT": {
         "seats": [
             {
-                "name": "Duncan Anderson",
+                "name": "Duncan Charles Anderson",
                 "party": "Labour"
             },
             {
-                "name": "Linda Curran",
+                "name": "Linda Mary Curran",
                 "party": "Labour"
             }
         ]
@@ -830,7 +830,7 @@ var COUNCILLORS = {
     "HEXTHORPE & BALBY NORTH, DONCASTER DISTRICT": {
         "seats": [
             {
-                "name": "Glyn Jones",
+                "name": "Glyn Allen Jones",
                 "party": "Labour"
             }
         ]
@@ -842,7 +842,7 @@ var COUNCILLORS = {
                 "party": "Mexborough First"
             },
             {
-                "name": "Sean Gibbons",
+                "name": "Sean Michael Gibbons",
                 "party": "Mexborough First"
             },
             {
@@ -858,7 +858,7 @@ var COUNCILLORS = {
                 "party": "Labour"
             },
             {
-                "name": "Austen White",
+                "name": "Austen William White",
                 "party": "Labour"
             }
         ]
@@ -886,11 +886,11 @@ var COUNCILLORS = {
                 "party": "Labour"
             },
             {
-                "name": "Susan Durant",
+                "name": "Susan Jane Durant",
                 "party": "Labour"
             },
             {
-                "name": "Mark Houlbrook",
+                "name": "Mark Stuart Houlbrook",
                 "party": "Labour"
             }
         ]
