@@ -1,7 +1,16 @@
 (function () {
 var mymap = L.map('mapid').setView([53.48, -1.34], 11);
+var attributionParts = [
+    'Map data © <a href="http://openstreetmap.org" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors',
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a>',
+    'Imagery © <a href="http://mapbox.com" target="_blank" rel="noreferrer">Mapbox</a>',
+    'Boundary data © <a href="https://www.ordnancesurvey.co.uk/election-maps/gb/?x=441165&y=398063&z=4&bnd1=MTW&bnd2=&labels=off" target="_blank" rel="noreferrer">OS</a> and <a href="https://mapit.mysociety.org/area/2533/children.html" target="_blank">MapIt</a>',
+    'Result data © <a href="https://candidates.democracyclub.org.uk/" target="_blank" rel="noreferrer">Democracy Club</a> contributors',
+    '<a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a>',
+    'Code © <a href="https://github.com/jwheare/sheffield-election-map" target="_blank">James Wheare</a> MIT licensed'
+];
 L.tileLayer('https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}', {
-    attribution: 'Map data © <a href="http://openstreetmap.org" target="_blank" rel="noreferrer">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a>, Imagery © <a href="http://mapbox.com" target="_blank" rel="noreferrer">Mapbox</a>, Boundary data © <a href="https://www.ordnancesurvey.co.uk/election-maps/gb/?x=441165&y=398063&z=4&bnd1=MTW&bnd2=&labels=off" target="_blank" rel="noreferrer">OS</a>, Result data © <a href="https://candidates.democracyclub.org.uk/" target="_blank" rel="noreferrer">Democracy Club</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/" target="_blank" rel="noreferrer">CC-BY-SA</a></p>',
+    attribution: attributionParts.join(', '),
     maxZoom: 18,
     id: 'mapbox/light-v10',
     accessToken: 'pk.eyJ1IjoiandoZWFyZSIsImEiOiJjamdydW1zcDgwZWN4MnhzMzljdnltdTRzIn0.BTVyxizdqNGPnj8UaC1IOQ'
