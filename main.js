@@ -107,16 +107,16 @@ L.geoJSON(BOUNDARIES, {
                 }
                 partyWinner = p;
             }
+            color = colors[partyWinner] || 'grey';
             if (Object.keys(partyVotes).length > 1 && partyRunnerUp) {
                 pattern = new L.StripePattern({
-                    color: colors[partyWinner] || 'grey',
+                    color: color,
                     spaceColor: colors[partyRunnerUp] || 'grey',
                     opacity: 1,
                     spaceOpacity: 1
                 });
                 pattern.addTo(mymap);
             }
-            color = colors[partyWinner] || 'grey';
             fillOpacity = 0.4;
             weight = 2;
         }
