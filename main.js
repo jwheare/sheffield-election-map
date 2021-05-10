@@ -20,12 +20,13 @@ RESULTS.forEach(function (res) {
                 post: cand.membership.post,
                 results: [],
                 turnout: res.turnout_percentage,
-                ballot_paper_id: res.ballot_paper_id
+                ballot_paper_id: res.ballot_paper_id,
+                winners: []
             }
         }
         WARDS[wardUpperFull].results.push(cand);
         if (cand.is_winner) {
-            WARDS[wardUpperFull].winner = cand;
+            WARDS[wardUpperFull].winners.push(cand);
         }
     });
 });
@@ -85,8 +86,22 @@ L.geoJSON(BOUNDARIES, {
         var color = 'grey';
         var fillOpacity = 0.01;
         var weight = 0.5;
-        if (ward && ward.winner) {
-            color = colors[ward.winner.membership.on_behalf_of.name] || 'grey';
+        if (ward && ward.winners) {
+            var partyVotes = {};
+            ward.winners.forEach(c => {
+                if (!partyVotes[c.membership.on_behalf_of.name]) {
+                    partyVotes[c.membership.on_behalf_of.name] = 0;
+                }
+                partyVotes[c.membership.on_behalf_of.name] += c.num_ballots;
+            });
+            var partyWinner;
+            for (p in partyVotes) {
+                if (partyWinner && partyVotes[partyWinner] >= partyVotes[p]) {
+                    continue;
+                }
+                partyWinner = p;
+            }
+            color = colors[partyWinner] || 'grey';
             fillOpacity = 0.4;
             weight = 2;
         }
